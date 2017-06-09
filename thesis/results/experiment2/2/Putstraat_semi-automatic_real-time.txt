@@ -1,0 +1,55 @@
+------------
+Putstraat
+------------
+Mapping style: semi-automatic
+Real-time: True
+------------
+Total distance extracted: 1.83 km
+Total distance reference: 1.83 km
+------------
+Segment count: 7
+Point count: 40
+Given point count: 11
+Extension count: 11
+Correction count: 1
+Removal count: 0
+Click count: 12
+Extraction count: 10
+Extraction time: 7.31
+Total time spend: 32.28
+------------
+Completeness: 98.89 %
+Correctness: 98.68 %
+Quality: 97.6 %
+Redundancy: -0.38 %
+Mean distance: 0.78 m
+RMSE: 1.02 m
+------------
+Segment 1
+Points: [(683, 0), (619, 100), (602, 136), (569, 229), (518, 323), (486, 365), (412, 441), (377, 490), (356, 535), (315, 641), (276, 706), (255, 729), (235, 743), (126, 799), (69, 824), (38, 845), (5, 874)]
+Given points: [(683, 0), (5, 874)]
+------------
+Segment 2
+Points: [(3, 820), (54, 831)]
+Given points: [(3, 820), (54, 831)]
+------------
+Segment 3
+Points: [(3, 820)]
+Given points: [(3, 820)]
+------------
+Segment 4
+Points: [(244, 741), (266, 772), (293, 796), (561, 971)]
+Given points: [(244, 741), (561, 971)]
+------------
+Segment 5
+Points: [(390, 472), (457, 517), (502, 479), (519, 469), (537, 465), (570, 469), (581, 465), (601, 448), (628, 416)]
+Given points: [(390, 472), (628, 416)]
+------------
+Segment 6
+Points: [(677, 8), (707, 30), (794, 114), (804, 136), (805, 170), (818, 189), (968, 282)]
+Given points: [(677, 8), (968, 282)]
+------------
+Segment 7
+Points: []
+Given points: []
+------------

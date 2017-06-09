@@ -1,0 +1,91 @@
+------------
+Tildonksesteenweg
+------------
+Mapping style: semi-automatic
+Real-time: False
+------------
+Total distance extracted: 4.37 km
+Total distance reference: 4.33 km
+------------
+Segment count: 16
+Point count: 64
+Given point count: 37
+Extension count: 30
+Correction count: 7
+Removal count: 3
+Click count: 40
+Extraction count: 29
+Extraction time: 14.52
+Total time spend: 146.08
+------------
+Completeness: 98.9 %
+Correctness: 97.9 %
+Quality: 96.84 %
+Redundancy: -0.2 %
+Mean distance: 0.91 m
+RMSE: 1.18 m
+------------
+Segment 1
+Points: [(1, 125), (89, 160), (173, 180), (207, 183), (349, 187), (478, 182), (625, 185), (693, 193), (753, 204), (864, 231), (890, 240)]
+Given points: [(1, 125), (890, 240)]
+------------
+Segment 2
+Points: [(417, 0), (395, 46), (372, 119), (366, 168), (370, 217), (380, 265), (448, 512), (469, 555), (507, 602), (523, 675), (520, 699)]
+Given points: [(417, 0), (507, 602), (520, 699)]
+------------
+Segment 3
+Points: [(507, 602), (558, 596), (598, 592), (627, 594), (655, 601), (844, 582)]
+Given points: [(507, 602), (655, 601), (844, 582)]
+------------
+Segment 4
+Points: [(672, 302), (836, 287), (842, 411), (851, 643), (833, 655), (840, 764)]
+Given points: [(672, 302), (836, 287), (842, 411), (851, 643), (833, 655), (840, 764)]
+------------
+Segment 5
+Points: [(840, 764), (706, 791), (666, 802), (627, 817)]
+Given points: [(840, 764), (627, 817)]
+------------
+Segment 6
+Points: [(890, 638), (851, 643)]
+Given points: [(890, 638), (851, 643)]
+------------
+Segment 7
+Points: [(2, 182), (694, 889)]
+Given points: [(2, 182), (694, 889)]
+------------
+Segment 8
+Points: [(471, 565), (394, 616), (356, 652), (321, 672), (5, 783)]
+Given points: [(471, 565), (5, 783)]
+------------
+Segment 9
+Points: [(337, 666), (390, 822), (350, 848), (269, 889)]
+Given points: [(337, 666), (390, 822), (269, 889)]
+------------
+Segment 10
+Points: [(243, 699), (289, 877)]
+Given points: [(243, 699), (289, 877)]
+------------
+Segment 11
+Points: [(608, 403), (425, 425)]
+Given points: [(608, 403), (425, 425)]
+------------
+Segment 12
+Points: [(607, 309), (400, 331)]
+Given points: [(607, 309), (400, 331)]
+------------
+Segment 13
+Points: [(607, 808), (493, 835), (484, 889)]
+Given points: [(607, 808), (484, 889)]
+------------
+Segment 14
+Points: [(439, 801), (390, 822)]
+Given points: [(439, 801), (390, 822)]
+------------
+Segment 15
+Points: [(892, 757), (840, 764)]
+Given points: [(892, 757), (840, 764)]
+------------
+Segment 16
+Points: []
+Given points: []
+------------

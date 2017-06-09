@@ -1,0 +1,35 @@
+------------
+Sint-Joris-Weertstraat
+------------
+Mapping style: semi-automatic
+Real-time: False
+------------
+Total distance extracted: 1.07 km
+Total distance reference: 1.07 km
+------------
+Segment count: 2
+Point count: 24
+Given point count: 5
+Extension count: 4
+Correction count: 1
+Removal count: 0
+Click count: 5
+Extraction count: 2
+Extraction time: 2.09
+Total time spend: 15.09
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Quality: 100.0 %
+Redundancy: 0.16 %
+Mean distance: 0.95 m
+RMSE: 1.13 m
+------------
+Segment 1
+Points: [(2, 552), (47, 549), (90, 536), (173, 497), (310, 424), (348, 410), (379, 403), (424, 402), (459, 407), (503, 419), (611, 459), (641, 465), (690, 463), (786, 441), (935, 437), (1020, 423)]
+Given points: [(2, 552), (1020, 423)]
+------------
+Segment 2
+Points: [(641, 465), (627, 480), (603, 487), (557, 497), (511, 502), (427, 530), (407, 539), (382, 558)]
+Given points: [(641, 465), (627, 480), (382, 558)]
+------------

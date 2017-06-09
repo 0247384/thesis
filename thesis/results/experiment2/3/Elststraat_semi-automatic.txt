@@ -1,0 +1,59 @@
+------------
+Elststraat
+------------
+Mapping style: semi-automatic
+Real-time: False
+------------
+Total distance extracted: 2.53 km
+Total distance reference: 2.51 km
+------------
+Segment count: 8
+Point count: 55
+Given point count: 15
+Extension count: 14
+Correction count: 1
+Removal count: 0
+Click count: 15
+Extraction count: 9
+Extraction time: 8.47
+Total time spend: 84.19
+------------
+Completeness: 98.29 %
+Correctness: 97.59 %
+Quality: 95.96 %
+Redundancy: -0.1 %
+Mean distance: 1.19 m
+RMSE: 1.49 m
+------------
+Segment 1
+Points: [(7, 44), (80, 46), (144, 55), (431, 124), (469, 137), (499, 153), (519, 169), (540, 195), (607, 211), (677, 240), (723, 271), (739, 286), (753, 305), (762, 327), (766, 347), (772, 436), (790, 556), (799, 647), (806, 687), (814, 713), (830, 745), (848, 772), (1018, 1007)]
+Given points: [(7, 44), (540, 195), (1018, 1007)]
+------------
+Segment 2
+Points: [(1017, 144), (911, 151), (843, 152), (819, 155), (793, 163), (780, 202), (772, 240), (763, 335)]
+Given points: [(1017, 144), (763, 335)]
+------------
+Segment 3
+Points: [(795, 3), (782, 87), (783, 170), (776, 196)]
+Given points: [(795, 3), (776, 196)]
+------------
+Segment 4
+Points: [(787, 547), (747, 548), (666, 531), (551, 504), (485, 480), (433, 470), (368, 468), (237, 480)]
+Given points: [(787, 547), (237, 480)]
+------------
+Segment 5
+Points: [(383, 4), (376, 107)]
+Given points: [(383, 4), (376, 107)]
+------------
+Segment 6
+Points: [(600, 210), (594, 239), (584, 265), (538, 343), (522, 376), (514, 407), (510, 456), (503, 482)]
+Given points: [(600, 210), (503, 482)]
+------------
+Segment 7
+Points: [(843, 152), (783, 146)]
+Given points: [(843, 152), (783, 146)]
+------------
+Segment 8
+Points: []
+Given points: []
+------------

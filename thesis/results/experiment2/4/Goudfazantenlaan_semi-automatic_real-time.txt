@@ -1,0 +1,71 @@
+------------
+Goudfazantenlaan
+------------
+Mapping style: semi-automatic
+Real-time: True
+------------
+Total distance extracted: 3.6 km
+Total distance reference: 3.72 km
+------------
+Segment count: 11
+Point count: 51
+Given point count: 29
+Extension count: 29
+Correction count: 2
+Removal count: 0
+Click count: 31
+Extraction count: 55
+Extraction time: 19.7
+Total time spend: 81.69
+------------
+Completeness: 97.3 %
+Correctness: 98.89 %
+Quality: 96.21 %
+Redundancy: -1.47 %
+Mean distance: 1.04 m
+RMSE: 1.31 m
+------------
+Segment 1
+Points: [(2, 89), (117, 254), (152, 296), (225, 374), (322, 510), (452, 722), (510, 806)]
+Given points: [(2, 89), (225, 374), (510, 806)]
+------------
+Segment 2
+Points: [(136, 585), (153, 555), (173, 514), (203, 441), (222, 390), (282, 132), (313, 30), (317, 4)]
+Given points: [(136, 585), (173, 514), (317, 4)]
+------------
+Segment 3
+Points: [(267, 195), (323, 220), (407, 252), (524, 290), (662, 330)]
+Given points: [(267, 195), (662, 330)]
+------------
+Segment 4
+Points: [(313, 30), (389, 53), (588, 138), (665, 162)]
+Given points: [(313, 30), (665, 162)]
+------------
+Segment 5
+Points: [(670, 1), (653, 816)]
+Given points: [(670, 1), (653, 816)]
+------------
+Segment 6
+Points: [(343, 545), (382, 528), (404, 527), (424, 530), (656, 622)]
+Given points: [(343, 545), (656, 622)]
+------------
+Segment 7
+Points: [(478, 274), (436, 405), (382, 528)]
+Given points: [(478, 274), (382, 528)]
+------------
+Segment 8
+Points: [(662, 444), (685, 465), (724, 570), (749, 624)]
+Given points: [(662, 444), (685, 465), (749, 624)]
+------------
+Segment 9
+Points: [(753, 2), (745, 97), (723, 155), (702, 232), (689, 289), (664, 312)]
+Given points: [(753, 2), (745, 97), (723, 155), (702, 232), (689, 289), (664, 312)]
+------------
+Segment 10
+Points: [(339, 731), (317, 791), (326, 773), (395, 804), (442, 819), (467, 783), (476, 762)]
+Given points: [(339, 731), (317, 791), (326, 773), (476, 762)]
+------------
+Segment 11
+Points: []
+Given points: []
+------------

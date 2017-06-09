@@ -1,0 +1,31 @@
+------------
+Blokkenstraat
+------------
+Mapping style: semi-automatic
+Real-time: False
+------------
+Total distance extracted: 1.05 km
+Total distance reference: 1.04 km
+------------
+Segment count: 1
+Point count: 14
+Given point count: 2
+Extension count: 2
+Correction count: 0
+Removal count: 0
+Click count: 2
+Extraction count: 1
+Extraction time: 1.47
+Total time spend: 7.2
+------------
+Completeness: 100.0 %
+Correctness: 99.9 %
+Quality: 99.9 %
+Redundancy: 0.6 %
+Mean distance: 0.88 m
+RMSE: 1.04 m
+------------
+Segment 1
+Points: [(1, 205), (43, 282), (69, 321), (126, 398), (167, 446), (301, 585), (379, 657), (434, 703), (509, 756), (620, 817), (729, 864), (929, 939), (997, 971), (1022, 987)]
+Given points: [(1, 205), (1022, 987)]
+------------

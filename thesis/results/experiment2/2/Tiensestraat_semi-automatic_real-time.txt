@@ -1,0 +1,103 @@
+------------
+Tiensestraat
+------------
+Mapping style: semi-automatic
+Real-time: True
+------------
+Total distance extracted: 3.29 km
+Total distance reference: 3.25 km
+------------
+Segment count: 19
+Point count: 54
+Given point count: 45
+Extension count: 41
+Correction count: 3
+Removal count: 0
+Click count: 44
+Extraction count: 93
+Extraction time: 24.2
+Total time spend: 148.40
+------------
+Completeness: 99.84 %
+Correctness: 99.3 %
+Quality: 99.14 %
+Redundancy: 0.75 %
+Mean distance: 1.0 m
+RMSE: 1.25 m
+------------
+Segment 1
+Points: [(137, 0), (570, 366)]
+Given points: [(137, 0), (570, 366)]
+------------
+Segment 2
+Points: [(328, 1), (3, 396)]
+Given points: [(328, 1), (3, 396)]
+------------
+Segment 3
+Points: [(3, 114), (77, 163), (243, 258), (570, 456)]
+Given points: [(3, 114), (77, 163), (243, 258), (570, 456)]
+------------
+Segment 4
+Points: [(52, 334), (331, 569)]
+Given points: [(52, 334), (331, 569)]
+------------
+Segment 5
+Points: [(133, 571), (146, 545), (165, 510), (195, 474), (330, 312)]
+Given points: [(133, 571), (165, 510), (330, 312)]
+------------
+Segment 6
+Points: [(330, 312), (504, 90), (499, 54), (439, 3)]
+Given points: [(330, 312), (504, 90), (499, 54), (439, 3)]
+------------
+Segment 7
+Points: [(572, 9), (541, 53), (499, 54)]
+Given points: [(572, 9), (541, 53), (499, 54)]
+------------
+Segment 8
+Points: [(507, 88), (519, 92), (545, 89), (573, 111)]
+Given points: [(507, 88), (545, 89), (573, 111)]
+------------
+Segment 9
+Points: [(541, 53), (545, 89)]
+Given points: [(541, 53), (545, 89)]
+------------
+Segment 10
+Points: [(498, 251), (507, 226), (572, 142)]
+Given points: [(498, 251), (507, 226), (572, 142)]
+------------
+Segment 11
+Points: [(526, 202), (570, 237)]
+Given points: [(526, 202), (570, 237)]
+------------
+Segment 12
+Points: [(414, 364), (373, 466), (343, 524), (319, 560)]
+Given points: [(414, 364), (319, 560)]
+------------
+Segment 13
+Points: [(287, 368), (355, 419), (381, 434)]
+Given points: [(287, 368), (381, 434)]
+------------
+Segment 14
+Points: [(342, 410), (269, 514)]
+Given points: [(342, 410), (269, 514)]
+------------
+Segment 15
+Points: [(392, 424), (445, 460), (509, 510), (569, 532)]
+Given points: [(392, 424), (569, 532)]
+------------
+Segment 16
+Points: [(442, 458), (373, 547), (348, 570), (331, 569)]
+Given points: [(442, 458), (348, 570), (331, 569)]
+------------
+Segment 17
+Points: [(368, 551), (393, 570)]
+Given points: [(368, 551), (393, 570)]
+------------
+Segment 18
+Points: [(495, 501), (462, 569)]
+Given points: [(495, 501), (462, 569)]
+------------
+Segment 19
+Points: []
+Given points: []
+------------

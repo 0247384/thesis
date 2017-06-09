@@ -1,0 +1,87 @@
+------------
+Dagobertstraat
+------------
+Mapping style: semi-automatic
+Real-time: False
+------------
+Total distance extracted: 2.93 km
+Total distance reference: 2.93 km
+------------
+Segment count: 15
+Point count: 49
+Given point count: 43
+Extension count: 39
+Correction count: 6
+Removal count: 0
+Click count: 45
+Extraction count: 35
+Extraction time: 7.13
+Total time spend: 97.13
+------------
+Completeness: 99.76 %
+Correctness: 99.55 %
+Quality: 99.31 %
+Redundancy: -0.25 %
+Mean distance: 0.74 m
+RMSE: 0.99 m
+------------
+Segment 1
+Points: [(2, 58), (80, 118), (126, 164), (169, 162), (176, 197), (134, 206), (126, 164)]
+Given points: [(2, 58), (126, 164), (169, 162), (176, 197), (134, 206), (126, 164)]
+------------
+Segment 2
+Points: [(169, 162), (304, 2)]
+Given points: [(169, 162), (304, 2)]
+------------
+Segment 3
+Points: [(134, 206), (6, 362)]
+Given points: [(134, 206), (6, 362)]
+------------
+Segment 4
+Points: [(0, 305), (312, 571)]
+Given points: [(0, 305), (312, 571)]
+------------
+Segment 5
+Points: [(478, 2), (478, 29), (355, 555)]
+Given points: [(478, 2), (478, 29), (355, 555)]
+------------
+Segment 6
+Points: [(355, 555), (345, 570)]
+Given points: [(355, 555), (345, 570)]
+------------
+Segment 7
+Points: [(176, 197), (385, 375), (397, 370)]
+Given points: [(176, 197), (385, 375), (397, 370)]
+------------
+Segment 8
+Points: [(221, 235), (143, 328), (130, 363)]
+Given points: [(221, 235), (143, 328), (130, 363)]
+------------
+Segment 9
+Points: [(158, 311), (210, 353), (238, 319), (205, 289)]
+Given points: [(158, 311), (210, 353), (238, 319), (205, 289)]
+------------
+Segment 10
+Points: [(220, 303), (253, 264)]
+Given points: [(220, 303), (253, 264)]
+------------
+Segment 11
+Points: [(467, 73), (481, 95), (500, 94)]
+Given points: [(467, 73), (481, 95), (500, 94)]
+------------
+Segment 12
+Points: [(503, 3), (505, 45), (499, 99), (489, 131), (463, 185), (455, 210), (445, 236), (432, 297), (407, 399), (387, 482), (368, 569)]
+Given points: [(503, 3), (455, 210), (432, 297), (407, 399), (387, 482), (368, 569)]
+------------
+Segment 13
+Points: [(520, 140), (456, 414), (401, 570)]
+Given points: [(520, 140), (456, 414), (401, 570)]
+------------
+Segment 14
+Points: [(3, 449), (207, 570)]
+Given points: [(3, 449), (207, 570)]
+------------
+Segment 15
+Points: []
+Given points: []
+------------

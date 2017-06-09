@@ -1,0 +1,47 @@
+------------
+Kapoenstraat
+------------
+Mapping style: semi-automatic
+Real-time: True
+------------
+Total distance extracted: 1.49 km
+Total distance reference: 1.5 km
+------------
+Segment count: 5
+Point count: 26
+Given point count: 9
+Extension count: 9
+Correction count: 0
+Removal count: 0
+Click count: 9
+Extraction count: 17
+Extraction time: 9.67
+Total time spend: 42.03
+------------
+Completeness: 99.59 %
+Correctness: 99.83 %
+Quality: 99.42 %
+Redundancy: -0.34 %
+Mean distance: 1.07 m
+RMSE: 1.28 m
+------------
+Segment 1
+Points: [(327, 897), (351, 838), (377, 790), (399, 758), (440, 710), (496, 657), (610, 563), (900, 311)]
+Given points: [(327, 897), (900, 311)]
+------------
+Segment 2
+Points: [(364, 812), (344, 719), (344, 699), (350, 675), (361, 657), (377, 640), (439, 586), (473, 563), (614, 556)]
+Given points: [(364, 812), (473, 563), (614, 556)]
+------------
+Segment 3
+Points: [(473, 563), (451, 526), (441, 493), (425, 352)]
+Given points: [(473, 563), (425, 352)]
+------------
+Segment 4
+Points: [(355, 666), (271, 628), (162, 560), (50, 507), (6, 482)]
+Given points: [(355, 666), (6, 482)]
+------------
+Segment 5
+Points: []
+Given points: []
+------------

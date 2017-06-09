@@ -1,0 +1,6884 @@
+------------
+Zavelberg 1
+------------
+Total extraction time: 0.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.42 %
+Mean distance: 0.84 m
+RMSE: 1.09 m
+------------
+------------
+Pasteelsblokweg 1
+------------
+Total extraction time: 1.16 seconds
+------------
+Completeness: 1.36 %
+Correctness: 1.42 %
+Correctness*: 80.06 %
+Quality: 0.71 %
+Quality*: 39.8 %
+Redundancy: 2.15 %
+Mean distance: 1.55 m
+RMSE: 1.89 m
+------------
+------------
+Struisellaan 1
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 5.4 %
+Correctness: 7.4 %
+Correctness*: 10.93 %
+Quality: 3.32 %
+Quality*: 4.9 %
+Redundancy: 5.31 %
+Mean distance: 1.67 m
+RMSE: 2.0 m
+------------
+------------
+Vaartdijk 3
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.27 m
+RMSE: 1.47 m
+------------
+------------
+Vaartdijk 6
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.65 m
+RMSE: 0.94 m
+------------
+------------
+Vaartdijk 9
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.58 m
+RMSE: 0.75 m
+------------
+------------
+Postweg 1
+------------
+Total extraction time: 3.0 seconds
+------------
+Completeness: 59.14 %
+Correctness: 58.41 %
+Correctness*: 58.41 %
+Quality: 41.56 %
+Quality*: 41.56 %
+Redundancy: -0.48 %
+Mean distance: 1.03 m
+RMSE: 1.39 m
+------------
+------------
+Oudebaan 4
+------------
+Total extraction time: 1.14 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.92 m
+RMSE: 1.13 m
+------------
+------------
+Oudebaan 5
+------------
+Total extraction time: 0.95 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.17 m
+RMSE: 0.45 m
+------------
+------------
+Oudebaan 6
+------------
+Total extraction time: 1.22 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.47 m
+RMSE: 0.63 m
+------------
+------------
+Oudebaan 7
+------------
+Total extraction time: 0.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.36 m
+RMSE: 0.61 m
+------------
+------------
+Oudebaan 12
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.82 m
+RMSE: 0.95 m
+------------
+------------
+Oudebaan 13
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.55 m
+RMSE: 1.76 m
+------------
+------------
+Leo Meulemansstraat 1
+------------
+Total extraction time: 0.57 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.11 m
+RMSE: 1.28 m
+------------
+------------
+Baron E. Descampslaan 6
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.65 m
+RMSE: 1.89 m
+------------
+------------
+Parkdallaan 1
+------------
+Total extraction time: 1.16 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.34 %
+Mean distance: 1.69 m
+RMSE: 1.88 m
+------------
+------------
+Groeningestraat 1
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 70.44 %
+Correctness: 72.81 %
+Correctness*: 76.14 %
+Quality: 55.79 %
+Quality*: 58.33 %
+Redundancy: 0.11 %
+Mean distance: 0.59 m
+RMSE: 1.1 m
+------------
+------------
+Maleizenstraat 1
+------------
+Total extraction time: 1.64 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.24 %
+Mean distance: 0.87 m
+RMSE: 1.1 m
+------------
+------------
+Groenstraat 2
+------------
+Total extraction time: 1.58 seconds
+------------
+Completeness: 97.73 %
+Correctness: 97.73 %
+Correctness*: 97.73 %
+Quality: 95.57 %
+Quality*: 95.57 %
+Redundancy: 0.0 %
+Mean distance: 1.09 m
+RMSE: 1.44 m
+------------
+------------
+Groenstraat 10
+------------
+Total extraction time: 2.92 seconds
+------------
+Completeness: 16.47 %
+Correctness: 16.32 %
+Correctness*: 69.39 %
+Quality: 8.95 %
+Quality*: 38.04 %
+Redundancy: 0.42 %
+Mean distance: 1.3 m
+RMSE: 1.69 m
+------------
+------------
+Segments tested: 20
+Completeness: 81.54 %
+Correctness: 82.11 %
+Correctness*: 90.53 %
+Quality: 69.24 %
+Quality*: 76.33 %
+Redundancy: -0.07 %
+Mean distance: 0.95 m
+RMSE: 1.26 m
+------------
+Total: 77.25 seconds
+------------
+------------
+Puttebroekstraat 1
+------------
+Total extraction time: 1.09 seconds
+------------
+Completeness: 99.08 %
+Correctness: 99.08 %
+Correctness*: 99.08 %
+Quality: 98.18 %
+Quality*: 98.18 %
+Redundancy: 0.17 %
+Mean distance: 0.86 m
+RMSE: 1.19 m
+------------
+------------
+Puttebroekstraat 2
+------------
+Total extraction time: 0.52 seconds
+------------
+Completeness: 86.28 %
+Correctness: 87.6 %
+Correctness*: 87.6 %
+Quality: 76.78 %
+Quality*: 76.78 %
+Redundancy: -1.18 %
+Mean distance: 0.93 m
+RMSE: 1.26 m
+------------
+------------
+Warotveld 1
+------------
+Total extraction time: 1.31 seconds
+------------
+Completeness: 74.22 %
+Correctness: 75.19 %
+Correctness*: 79.18 %
+Quality: 59.59 %
+Quality*: 62.75 %
+Redundancy: -0.21 %
+Mean distance: 1.33 m
+RMSE: 1.58 m
+------------
+------------
+Warotveld 3
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 3.37 %
+Correctness: 3.84 %
+Correctness*: 62.55 %
+Quality: 1.78 %
+Quality*: 28.99 %
+Redundancy: -4.96 %
+Mean distance: 1.52 m
+RMSE: 1.83 m
+------------
+------------
+Ruisbroekstraat 2
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 6.81 %
+Correctness: 6.81 %
+Correctness*: 6.81 %
+Quality: 3.52 %
+Quality*: 3.52 %
+Redundancy: 0.0 %
+Mean distance: 1.73 m
+RMSE: 2.02 m
+------------
+------------
+Ruisbroekstraat 5
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 98.57 %
+Correctness: 98.57 %
+Correctness*: 98.57 %
+Quality: 97.17 %
+Quality*: 97.17 %
+Redundancy: 0.0 %
+Mean distance: 1.07 m
+RMSE: 1.42 m
+------------
+------------
+Dijledreef 1
+------------
+Total extraction time: 0.56 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.29 m
+RMSE: 0.47 m
+------------
+------------
+Kortrijksestraat 2
+------------
+Total extraction time: 2.5 seconds
+------------
+Completeness: 84.82 %
+Correctness: 84.83 %
+Correctness*: 84.83 %
+Quality: 73.66 %
+Quality*: 73.66 %
+Redundancy: 0.07 %
+Mean distance: 1.02 m
+RMSE: 1.25 m
+------------
+------------
+Kortrijksestraat 6
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.75 m
+RMSE: 0.84 m
+------------
+------------
+Fazantenlaan 1
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.8 m
+RMSE: 1.01 m
+------------
+------------
+Fazantenlaan 3
+------------
+Total extraction time: 1.03 seconds
+------------
+Completeness: 88.92 %
+Correctness: 88.56 %
+Correctness*: 88.56 %
+Quality: 79.76 %
+Quality*: 79.76 %
+Redundancy: -0.06 %
+Mean distance: 0.69 m
+RMSE: 0.92 m
+------------
+------------
+Vuntlaan 1
+------------
+Total extraction time: 1.36 seconds
+------------
+Completeness: 98.57 %
+Correctness: 99.16 %
+Correctness*: 99.16 %
+Quality: 97.75 %
+Quality*: 97.75 %
+Redundancy: -0.4 %
+Mean distance: 0.86 m
+RMSE: 1.17 m
+------------
+------------
+Leuvenseweg 1
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 1.47 %
+Correctness: 1.91 %
+Correctness*: 100.0 %
+Quality: 0.85 %
+Quality*: 44.29 %
+Redundancy: 2.09 %
+Mean distance: 1.6 m
+RMSE: 1.99 m
+------------
+------------
+Wijnbergenstraat 1
+------------
+Total extraction time: 2.52 seconds
+------------
+Completeness: 84.49 %
+Correctness: 84.49 %
+Correctness*: 84.49 %
+Quality: 73.14 %
+Quality*: 73.14 %
+Redundancy: -0.0 %
+Mean distance: 1.69 m
+RMSE: 1.96 m
+------------
+------------
+Dorpsstraat 12
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 37.31 %
+Correctness: 37.02 %
+Correctness*: 51.06 %
+Quality: 22.86 %
+Quality*: 31.53 %
+Redundancy: 0.4 %
+Mean distance: 2.18 m
+RMSE: 2.3 m
+------------
+------------
+Dorpsstraat 22
+------------
+Total extraction time: 0.95 seconds
+------------
+Completeness: 99.3 %
+Correctness: 99.3 %
+Correctness*: 99.3 %
+Quality: 98.6 %
+Quality*: 98.6 %
+Redundancy: -0.0 %
+Mean distance: 0.6 m
+RMSE: 0.95 m
+------------
+------------
+Veldstraat 2
+------------
+Total extraction time: 1.22 seconds
+------------
+Completeness: 80.78 %
+Correctness: 79.4 %
+Correctness*: 81.46 %
+Quality: 66.65 %
+Quality*: 68.37 %
+Redundancy: -1.26 %
+Mean distance: 0.9 m
+RMSE: 1.2 m
+------------
+------------
+Duinberglaan 3
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 56.75 %
+Correctness: 68.47 %
+Correctness*: 68.47 %
+Quality: 44.9 %
+Quality*: 44.9 %
+Redundancy: -0.63 %
+Mean distance: 1.32 m
+RMSE: 1.5 m
+------------
+------------
+Broekveldstraat 1
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.34 m
+RMSE: 0.53 m
+------------
+------------
+Jos De Haeslaan 1
+------------
+Total extraction time: 1.11 seconds
+------------
+Completeness: 95.32 %
+Correctness: 95.86 %
+Correctness*: 95.86 %
+Quality: 91.49 %
+Quality*: 91.49 %
+Redundancy: -1.46 %
+Mean distance: 1.13 m
+RMSE: 1.39 m
+------------
+------------
+Segments tested: 40
+Completeness: 79.69 %
+Correctness: 80.91 %
+Correctness*: 88.83 %
+Quality: 67.06 %
+Quality*: 73.62 %
+Redundancy: -0.15 %
+Mean distance: 0.94 m
+RMSE: 1.26 m
+------------
+Total: 150.18 seconds
+------------
+------------
+Nieuwe Prinsstraat 1
+------------
+Total extraction time: 0.74 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.53 %
+Mean distance: 0.54 m
+RMSE: 0.76 m
+------------
+------------
+Tornooistraat 1
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.32 m
+RMSE: 1.64 m
+------------
+------------
+Herpendaalstraat 1
+------------
+Total extraction time: 1.19 seconds
+------------
+Completeness: 97.96 %
+Correctness: 97.96 %
+Correctness*: 97.96 %
+Quality: 96.01 %
+Quality*: 96.01 %
+Redundancy: 0.0 %
+Mean distance: 1.74 m
+RMSE: 1.9 m
+------------
+------------
+Witteweg 2
+------------
+Total extraction time: 0.95 seconds
+------------
+Completeness: 34.44 %
+Correctness: 34.48 %
+Correctness*: 34.48 %
+Quality: 20.78 %
+Quality*: 20.78 %
+Redundancy: -0.5 %
+Mean distance: 0.91 m
+RMSE: 1.22 m
+------------
+------------
+Lange Lostraat - Rozenweg 1
+------------
+Total extraction time: 1.12 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.24 %
+Mean distance: 0.88 m
+RMSE: 1.07 m
+------------
+------------
+Benedictijnenlaan 1
+------------
+Total extraction time: 0.56 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.46 %
+Mean distance: 0.72 m
+RMSE: 0.88 m
+------------
+------------
+Ursulinenstraat 1
+------------
+Total extraction time: 0.76 seconds
+------------
+Completeness: 89.35 %
+Correctness: 89.33 %
+Correctness*: 89.33 %
+Quality: 80.73 %
+Quality*: 80.73 %
+Redundancy: -0.19 %
+Mean distance: 1.15 m
+RMSE: 1.58 m
+------------
+------------
+Brainestraat 1
+------------
+Total extraction time: 0.97 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.51 m
+RMSE: 1.67 m
+------------
+------------
+Hoegaardsestraat 2
+------------
+Total extraction time: 1.03 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.6 m
+RMSE: 1.74 m
+------------
+------------
+Hoegaardsestraat 7
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 91.01 %
+Correctness: 92.11 %
+Correctness*: 92.11 %
+Quality: 84.41 %
+Quality*: 84.41 %
+Redundancy: -0.4 %
+Mean distance: 0.78 m
+RMSE: 1.0 m
+------------
+------------
+Nieuwe Steenweg 3
+------------
+Total extraction time: 2.34 seconds
+------------
+Completeness: 87.57 %
+Correctness: 89.08 %
+Correctness*: 90.07 %
+Quality: 79.08 %
+Quality*: 79.96 %
+Redundancy: -0.06 %
+Mean distance: 0.96 m
+RMSE: 1.25 m
+------------
+------------
+Oude Baan 1
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 96.5 %
+Correctness: 97.65 %
+Correctness*: 97.65 %
+Quality: 94.3 %
+Quality*: 94.3 %
+Redundancy: -0.43 %
+Mean distance: 1.53 m
+RMSE: 1.76 m
+------------
+------------
+Oude Baan 2
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 99.41 %
+Correctness: 99.41 %
+Correctness*: 99.41 %
+Quality: 98.82 %
+Quality*: 98.82 %
+Redundancy: 0.0 %
+Mean distance: 1.22 m
+RMSE: 1.59 m
+------------
+------------
+Oude Baan 3
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 98.9 %
+Correctness: 98.91 %
+Correctness*: 98.91 %
+Quality: 97.84 %
+Quality*: 97.84 %
+Redundancy: 0.41 %
+Mean distance: 1.0 m
+RMSE: 1.27 m
+------------
+------------
+Molstraat 1
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 81.33 %
+Correctness: 82.18 %
+Correctness*: 82.18 %
+Quality: 69.11 %
+Quality*: 69.11 %
+Redundancy: -0.27 %
+Mean distance: 1.77 m
+RMSE: 2.0 m
+------------
+------------
+Zavelstraat 4
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.2 %
+Mean distance: 1.27 m
+RMSE: 1.53 m
+------------
+------------
+Zavelstraat 7
+------------
+Total extraction time: 2.14 seconds
+------------
+Completeness: 43.27 %
+Correctness: 42.86 %
+Correctness*: 42.86 %
+Quality: 27.49 %
+Quality*: 27.49 %
+Redundancy: 0.48 %
+Mean distance: 1.72 m
+RMSE: 1.84 m
+------------
+------------
+Tervuursesteenweg 4
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.07 m
+RMSE: 0.22 m
+------------
+------------
+Tervuursesteenweg 9
+------------
+Total extraction time: 2.78 seconds
+------------
+Completeness: 44.24 %
+Correctness: 44.24 %
+Correctness*: 45.18 %
+Quality: 28.4 %
+Quality*: 29.0 %
+Redundancy: 0.0 %
+Mean distance: 1.99 m
+RMSE: 2.22 m
+------------
+------------
+Tervuursesteenweg 12
+------------
+Total extraction time: 0.5 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.16 m
+RMSE: 0.35 m
+------------
+------------
+Segments tested: 60
+Completeness: 81.32 %
+Correctness: 82.21 %
+Correctness*: 87.56 %
+Quality: 69.14 %
+Quality*: 73.64 %
+Redundancy: -0.13 %
+Mean distance: 1.0 m
+RMSE: 1.33 m
+------------
+Total: 217.31 seconds
+------------
+------------
+Tervuursesteenweg 14
+------------
+Total extraction time: 1.59 seconds
+------------
+Completeness: 94.05 %
+Correctness: 94.05 %
+Correctness*: 94.05 %
+Quality: 88.77 %
+Quality*: 88.77 %
+Redundancy: 0.0 %
+Mean distance: 1.83 m
+RMSE: 2.02 m
+------------
+------------
+Tervuursesteenweg 18
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.05 m
+RMSE: 0.2 m
+------------
+------------
+Valleilaan 1
+------------
+Total extraction time: 0.34 seconds
+------------
+Completeness: 1.48 %
+Correctness: 6.11 %
+Correctness*: 100.0 %
+Quality: 1.27 %
+Quality*: 20.82 %
+Redundancy: 6.32 %
+Mean distance: 1.53 m
+RMSE: 1.88 m
+------------
+------------
+Wingepark 6
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.06 m
+RMSE: 1.26 m
+------------
+------------
+Wingepark 7
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.55 m
+RMSE: 0.71 m
+------------
+------------
+Bertemstraat 1
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.06 m
+RMSE: 1.21 m
+------------
+------------
+Veeweide 2
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 27.94 %
+Correctness: 29.11 %
+Correctness*: 29.11 %
+Quality: 16.63 %
+Quality*: 16.63 %
+Redundancy: -0.0 %
+Mean distance: 1.92 m
+RMSE: 2.28 m
+------------
+------------
+Termerestraat 1
+------------
+Total extraction time: 1.0 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.62 m
+RMSE: 0.76 m
+------------
+------------
+Henricus Wittebolsstraat 3
+------------
+Total extraction time: 0.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -1.13 %
+Mean distance: 1.09 m
+RMSE: 1.35 m
+------------
+------------
+Predikherenberg 2
+------------
+Total extraction time: 1.08 seconds
+------------
+Completeness: 77.85 %
+Correctness: 77.09 %
+Correctness*: 79.72 %
+Quality: 63.21 %
+Quality*: 65.36 %
+Redundancy: -0.11 %
+Mean distance: 1.08 m
+RMSE: 1.39 m
+------------
+------------
+Kerkweg 1
+------------
+Total extraction time: 1.7 seconds
+------------
+Completeness: 62.34 %
+Correctness: 60.11 %
+Correctness*: 63.14 %
+Quality: 44.03 %
+Quality*: 46.25 %
+Redundancy: -0.54 %
+Mean distance: 1.61 m
+RMSE: 1.82 m
+------------
+------------
+Lange Lostraat 2
+------------
+Total extraction time: 1.23 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.53 m
+RMSE: 0.67 m
+------------
+------------
+Coenraedt Keynslaan 1
+------------
+Total extraction time: 1.04 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.83 m
+RMSE: 0.96 m
+------------
+------------
+Termunckstraat 2
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 8.38 %
+Correctness: 9.23 %
+Correctness*: 45.58 %
+Quality: 4.55 %
+Quality*: 22.47 %
+Redundancy: -1.89 %
+Mean distance: 1.66 m
+RMSE: 1.95 m
+------------
+------------
+Garestalaan 1
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.74 m
+RMSE: 1.03 m
+------------
+------------
+Vaaltweg 1
+------------
+Total extraction time: 1.03 seconds
+------------
+Completeness: 81.82 %
+Correctness: 82.61 %
+Correctness*: 82.61 %
+Quality: 69.86 %
+Quality*: 69.86 %
+Redundancy: 0.55 %
+Mean distance: 1.16 m
+RMSE: 1.56 m
+------------
+------------
+Rotselaarsesteenweg 1
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.17 m
+RMSE: 1.39 m
+------------
+------------
+Wijnpersstraat 2
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.8 m
+RMSE: 1.01 m
+------------
+------------
+Kerkenbosstraat 1
+------------
+Total extraction time: 0.88 seconds
+------------
+Completeness: 1.81 %
+Correctness: 3.53 %
+Correctness*: 3.53 %
+Quality: 1.21 %
+Quality*: 1.21 %
+Redundancy: 0.0 %
+Mean distance: 1.68 m
+RMSE: 2.04 m
+------------
+------------
+Oud-Heverleestraat 1
+------------
+Total extraction time: 1.86 seconds
+------------
+Completeness: 94.96 %
+Correctness: 95.28 %
+Correctness*: 95.28 %
+Quality: 90.7 %
+Quality*: 90.7 %
+Redundancy: 0.23 %
+Mean distance: 1.19 m
+RMSE: 1.57 m
+------------
+------------
+Segments tested: 80
+Completeness: 80.77 %
+Correctness: 82.79 %
+Correctness*: 87.53 %
+Quality: 69.15 %
+Quality*: 73.11 %
+Redundancy: -0.1 %
+Mean distance: 1.01 m
+RMSE: 1.33 m
+------------
+Total: 286.37 seconds
+------------
+------------
+Ophemstraat 2
+------------
+Total extraction time: 1.78 seconds
+------------
+Completeness: 99.25 %
+Correctness: 98.77 %
+Correctness*: 98.77 %
+Quality: 98.04 %
+Quality*: 98.04 %
+Redundancy: -0.24 %
+Mean distance: 0.73 m
+RMSE: 1.05 m
+------------
+------------
+Molenstraat 1
+------------
+Total extraction time: 1.56 seconds
+------------
+Completeness: 98.05 %
+Correctness: 98.35 %
+Correctness*: 98.35 %
+Quality: 96.45 %
+Quality*: 96.45 %
+Redundancy: -0.18 %
+Mean distance: 1.0 m
+RMSE: 1.27 m
+------------
+------------
+Wilselsesteenweg 11
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.95 %
+Mean distance: 0.81 m
+RMSE: 1.08 m
+------------
+------------
+De Vunt 1
+------------
+Total extraction time: 1.11 seconds
+------------
+Completeness: 65.05 %
+Correctness: 69.98 %
+Correctness*: 69.98 %
+Quality: 50.9 %
+Quality*: 50.9 %
+Redundancy: 0.27 %
+Mean distance: 1.31 m
+RMSE: 1.65 m
+------------
+------------
+Rigessel 3
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 99.18 %
+Correctness: 99.18 %
+Correctness*: 99.18 %
+Quality: 98.38 %
+Quality*: 98.38 %
+Redundancy: -0.13 %
+Mean distance: 1.23 m
+RMSE: 1.45 m
+------------
+------------
+Rigessel 5
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.52 m
+RMSE: 0.68 m
+------------
+------------
+Trolieberg 5
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.65 %
+Mean distance: 1.3 m
+RMSE: 1.5 m
+------------
+------------
+Trolieberg 6
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 69.56 %
+Correctness: 69.56 %
+Correctness*: 69.56 %
+Quality: 53.33 %
+Quality*: 53.33 %
+Redundancy: 0.0 %
+Mean distance: 1.72 m
+RMSE: 1.99 m
+------------
+------------
+Verenigingstraat 2
+------------
+Total extraction time: 0.6 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.13 m
+RMSE: 0.32 m
+------------
+------------
+Geen-straat 1
+------------
+Total extraction time: 0.84 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.38 %
+Mean distance: 1.22 m
+RMSE: 1.39 m
+------------
+------------
+Bunsbeekstraat 1
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+Paardenstraat 1
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 20.28 %
+Correctness: 20.67 %
+Correctness*: 20.67 %
+Quality: 11.42 %
+Quality*: 11.42 %
+Redundancy: 0.28 %
+Mean distance: 0.69 m
+RMSE: 1.12 m
+------------
+------------
+Diestsesteenweg 14
+------------
+Total extraction time: 0.52 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.08 m
+RMSE: 0.25 m
+------------
+------------
+Diestsesteenweg 15
+------------
+Total extraction time: 1.23 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.7 m
+RMSE: 0.81 m
+------------
+------------
+Diestsesteenweg 28
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.93 m
+RMSE: 2.09 m
+------------
+------------
+Holsbeeksesteenweg 6
+------------
+Total extraction time: 3.16 seconds
+------------
+Completeness: 24.61 %
+Correctness: 24.39 %
+Correctness*: 28.69 %
+Quality: 13.96 %
+Quality*: 16.42 %
+Redundancy: 0.0 %
+Mean distance: 2.68 m
+RMSE: 2.78 m
+------------
+------------
+Holsbeeksesteenweg 10
+------------
+Total extraction time: 1.39 seconds
+------------
+Completeness: 95.48 %
+Correctness: 95.48 %
+Correctness*: 95.48 %
+Quality: 91.35 %
+Quality*: 91.35 %
+Redundancy: 0.0 %
+Mean distance: 0.89 m
+RMSE: 1.21 m
+------------
+------------
+Van T' Sestichlaan 1
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 2.95 %
+Correctness: 4.87 %
+Correctness*: 100.0 %
+Quality: 1.99 %
+Quality*: 40.91 %
+Redundancy: 9.73 %
+Mean distance: 1.67 m
+RMSE: 2.0 m
+------------
+------------
+Ridderstraat 1
+------------
+Total extraction time: 1.16 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.64 %
+Mean distance: 0.91 m
+RMSE: 1.19 m
+------------
+------------
+Albert Woutersstraat 3
+------------
+Total extraction time: 2.33 seconds
+------------
+Completeness: 90.31 %
+Correctness: 90.5 %
+Correctness*: 90.5 %
+Quality: 82.49 %
+Quality*: 82.49 %
+Redundancy: -0.08 %
+Mean distance: 0.92 m
+RMSE: 1.1 m
+------------
+------------
+Segments tested: 100
+Completeness: 81.15 %
+Correctness: 83.03 %
+Correctness*: 87.39 %
+Quality: 69.59 %
+Quality*: 73.25 %
+Redundancy: -0.11 %
+Mean distance: 0.99 m
+RMSE: 1.32 m
+------------
+Total: 357.64 seconds
+------------
+------------
+Wielewaallaan 1
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 100.0 %
+Correctness: 99.43 %
+Correctness*: 99.43 %
+Quality: 99.43 %
+Quality*: 99.43 %
+Redundancy: 0.82 %
+Mean distance: 0.51 m
+RMSE: 0.9 m
+------------
+------------
+Bavenhofstraat 1
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.32 m
+RMSE: 1.66 m
+------------
+------------
+Populierenweg 1
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 92.86 %
+Correctness: 94.41 %
+Correctness*: 94.41 %
+Quality: 88.03 %
+Quality*: 88.03 %
+Redundancy: 0.08 %
+Mean distance: 1.31 m
+RMSE: 1.55 m
+------------
+------------
+Losbergenlaan 1
+------------
+Total extraction time: 0.94 seconds
+------------
+Completeness: 94.15 %
+Correctness: 95.8 %
+Correctness*: 95.8 %
+Quality: 90.42 %
+Quality*: 90.42 %
+Redundancy: 0.0 %
+Mean distance: 1.07 m
+RMSE: 1.51 m
+------------
+------------
+Roeselbergdal 1
+------------
+Total extraction time: 1.16 seconds
+------------
+Completeness: 97.83 %
+Correctness: 98.3 %
+Correctness*: 98.3 %
+Quality: 96.21 %
+Quality*: 96.21 %
+Redundancy: 0.06 %
+Mean distance: 1.13 m
+RMSE: 1.41 m
+------------
+------------
+Vengerstraat 1
+------------
+Total extraction time: 1.05 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.34 m
+RMSE: 0.53 m
+------------
+------------
+Grote Molenweg 1
+------------
+Total extraction time: 1.67 seconds
+------------
+Completeness: 43.2 %
+Correctness: 43.47 %
+Correctness*: 43.47 %
+Quality: 27.7 %
+Quality*: 27.7 %
+Redundancy: 0.39 %
+Mean distance: 1.64 m
+RMSE: 1.99 m
+------------
+------------
+Van Bladelstraat 1
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.25 m
+RMSE: 1.47 m
+------------
+------------
+Panoramalaan 2
+------------
+Total extraction time: 0.98 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.12 %
+Mean distance: 1.02 m
+RMSE: 1.24 m
+------------
+------------
+Panoramalaan 3
+------------
+Total extraction time: 1.0 seconds
+------------
+Completeness: 2.12 %
+Correctness: 2.19 %
+Correctness*: 2.19 %
+Quality: 1.09 %
+Quality*: 1.09 %
+Redundancy: 0.0 %
+Mean distance: 1.53 m
+RMSE: 1.88 m
+------------
+------------
+Grensstraat 2
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 2.99 %
+Correctness: 5.05 %
+Correctness*: 5.91 %
+Quality: 2.01 %
+Quality*: 2.35 %
+Redundancy: 7.4 %
+Mean distance: 1.67 m
+RMSE: 1.97 m
+------------
+------------
+Pimberg 1
+------------
+Total extraction time: 1.56 seconds
+------------
+Completeness: 96.42 %
+Correctness: 96.4 %
+Correctness*: 96.4 %
+Quality: 93.06 %
+Quality*: 93.06 %
+Redundancy: -0.58 %
+Mean distance: 1.12 m
+RMSE: 1.45 m
+------------
+------------
+Baertlaan 1
+------------
+Total extraction time: 0.97 seconds
+------------
+Completeness: 68.64 %
+Correctness: 68.94 %
+Correctness*: 68.94 %
+Quality: 52.4 %
+Quality*: 52.4 %
+Redundancy: -0.25 %
+Mean distance: 1.73 m
+RMSE: 1.96 m
+------------
+------------
+IJzerenberglaan 2
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 96.95 %
+Correctness: 96.95 %
+Correctness*: 96.95 %
+Quality: 94.08 %
+Quality*: 94.08 %
+Redundancy: 0.0 %
+Mean distance: 0.38 m
+RMSE: 0.74 m
+------------
+------------
+Petrusberg 1
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 1.76 %
+Correctness: 4.66 %
+Correctness*: 100.0 %
+Quality: 1.28 %
+Quality*: 27.36 %
+Redundancy: -2.06 %
+Mean distance: 1.62 m
+RMSE: 2.01 m
+------------
+------------
+Burchtlaan 1
+------------
+Total extraction time: 1.08 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.56 %
+Mean distance: 1.33 m
+RMSE: 1.49 m
+------------
+------------
+Kareelveld 1
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.21 %
+Mean distance: 0.44 m
+RMSE: 0.63 m
+------------
+------------
+Nijvelsebaan 4
+------------
+Total extraction time: 1.22 seconds
+------------
+Completeness: 96.01 %
+Correctness: 94.66 %
+Correctness*: 97.05 %
+Quality: 91.09 %
+Quality*: 93.38 %
+Redundancy: 0.2 %
+Mean distance: 1.06 m
+RMSE: 1.33 m
+------------
+------------
+Slangenstraat 2
+------------
+Total extraction time: 1.0 seconds
+------------
+Completeness: 85.9 %
+Correctness: 84.99 %
+Correctness*: 84.99 %
+Quality: 74.56 %
+Quality*: 74.56 %
+Redundancy: -0.38 %
+Mean distance: 0.92 m
+RMSE: 1.16 m
+------------
+------------
+Slangenstraat 6
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 99.01 %
+Correctness: 99.0 %
+Correctness*: 99.0 %
+Quality: 98.03 %
+Quality*: 98.03 %
+Redundancy: -0.88 %
+Mean distance: 0.89 m
+RMSE: 1.24 m
+------------
+------------
+Segments tested: 120
+Completeness: 80.94 %
+Correctness: 83.16 %
+Correctness*: 87.2 %
+Quality: 69.53 %
+Quality*: 72.9 %
+Redundancy: -0.11 %
+Mean distance: 0.99 m
+RMSE: 1.32 m
+------------
+Total: 426.3 seconds
+------------
+------------
+Schoolbergenstraat 7
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.14 %
+Mean distance: 0.81 m
+RMSE: 0.97 m
+------------
+------------
+Bovenbosstraat 3
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 75.01 %
+Correctness: 74.75 %
+Correctness*: 74.75 %
+Quality: 59.88 %
+Quality*: 59.88 %
+Redundancy: 0.28 %
+Mean distance: 1.04 m
+RMSE: 1.3 m
+------------
+------------
+Lemingstraat - Leming 2
+------------
+Total extraction time: 0.52 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.24 %
+Mean distance: 0.73 m
+RMSE: 0.87 m
+------------
+------------
+Oude Hoevestraat 1
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.02 m
+RMSE: 0.11 m
+------------
+------------
+Neringenweg 1
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 3.01 %
+Correctness: 3.53 %
+Correctness*: 16.65 %
+Quality: 1.66 %
+Quality*: 7.8 %
+Redundancy: 0.46 %
+Mean distance: 1.65 m
+RMSE: 1.96 m
+------------
+------------
+Graaf de Grunnelaan 1
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.92 m
+RMSE: 1.19 m
+------------
+------------
+Eektstraat 2
+------------
+Total extraction time: 1.67 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.61 %
+Mean distance: 1.0 m
+RMSE: 1.26 m
+------------
+------------
+Rozenbergstraat 1
+------------
+Total extraction time: 1.56 seconds
+------------
+Completeness: 99.69 %
+Correctness: 99.69 %
+Correctness*: 99.69 %
+Quality: 99.39 %
+Quality*: 99.39 %
+Redundancy: -0.35 %
+Mean distance: 0.83 m
+RMSE: 1.09 m
+------------
+------------
+Prinses Lydialaan 2
+------------
+Total extraction time: 0.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.09 m
+RMSE: 1.18 m
+------------
+------------
+Prinses Lydialaan 3
+------------
+Total extraction time: 0.65 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.72 m
+RMSE: 1.07 m
+------------
+------------
+Mechelsesteenweg 5
+------------
+Total extraction time: 1.02 seconds
+------------
+Completeness: 21.48 %
+Correctness: 20.57 %
+Correctness*: 22.4 %
+Quality: 11.65 %
+Quality*: 12.69 %
+Redundancy: -1.73 %
+Mean distance: 2.0 m
+RMSE: 2.23 m
+------------
+------------
+Mechelsesteenweg 10
+------------
+Total extraction time: 1.05 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.16 m
+RMSE: 0.35 m
+------------
+------------
+Mechelsesteenweg 14
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.23 m
+RMSE: 0.42 m
+------------
+------------
+Mechelsesteenweg 43
+------------
+Total extraction time: 1.98 seconds
+------------
+Completeness: 99.88 %
+Correctness: 99.88 %
+Correctness*: 99.88 %
+Quality: 99.76 %
+Quality*: 99.76 %
+Redundancy: 0.0 %
+Mean distance: 1.8 m
+RMSE: 1.98 m
+------------
+------------
+Mechelsesteenweg 58
+------------
+Total extraction time: 1.27 seconds
+------------
+Completeness: 90.99 %
+Correctness: 91.0 %
+Correctness*: 91.0 %
+Quality: 83.49 %
+Quality*: 83.49 %
+Redundancy: 0.12 %
+Mean distance: 0.63 m
+RMSE: 0.99 m
+------------
+------------
+Kroonstraat 1
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 99.51 %
+Correctness: 99.51 %
+Correctness*: 99.51 %
+Quality: 99.02 %
+Quality*: 99.02 %
+Redundancy: -0.37 %
+Mean distance: 1.27 m
+RMSE: 1.45 m
+------------
+------------
+Kroonstraat 3
+------------
+Total extraction time: 0.94 seconds
+------------
+Completeness: 88.62 %
+Correctness: 88.16 %
+Correctness*: 89.81 %
+Quality: 79.19 %
+Quality*: 80.66 %
+Redundancy: -0.15 %
+Mean distance: 1.81 m
+RMSE: 2.04 m
+------------
+------------
+Kroonstraat 4
+------------
+Total extraction time: 1.0 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.46 %
+Mean distance: 0.79 m
+RMSE: 0.97 m
+------------
+------------
+Albrecht Rodenbachstraat 1
+------------
+Total extraction time: 0.89 seconds
+------------
+Completeness: 27.67 %
+Correctness: 27.67 %
+Correctness*: 27.67 %
+Quality: 16.06 %
+Quality*: 16.06 %
+Redundancy: 0.0 %
+Mean distance: 1.75 m
+RMSE: 2.02 m
+------------
+------------
+Terbankstraat 6
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 92.96 %
+Correctness: 94.03 %
+Correctness*: 94.03 %
+Quality: 87.78 %
+Quality*: 87.78 %
+Redundancy: 0.08 %
+Mean distance: 0.82 m
+RMSE: 1.07 m
+------------
+------------
+Segments tested: 140
+Completeness: 81.53 %
+Correctness: 83.54 %
+Correctness*: 87.13 %
+Quality: 70.23 %
+Quality*: 73.25 %
+Redundancy: -0.12 %
+Mean distance: 0.98 m
+RMSE: 1.32 m
+------------
+Total: 500.34 seconds
+------------
+------------
+Langendaallaan 1
+------------
+Total extraction time: 0.5 seconds
+------------
+Completeness: 16.92 %
+Correctness: 41.89 %
+Correctness*: 95.87 %
+Quality: 13.59 %
+Quality*: 31.11 %
+Redundancy: -1.21 %
+Mean distance: 0.63 m
+RMSE: 0.85 m
+------------
+------------
+Wildenhoge 1
+------------
+Total extraction time: 1.16 seconds
+------------
+Completeness: 93.28 %
+Correctness: 94.39 %
+Correctness*: 94.39 %
+Quality: 88.37 %
+Quality*: 88.37 %
+Redundancy: -0.29 %
+Mean distance: 1.21 m
+RMSE: 1.48 m
+------------
+------------
+Technologielaan 2
+------------
+Total extraction time: 1.88 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.12 %
+Mean distance: 0.5 m
+RMSE: 0.71 m
+------------
+------------
+Heideveldweg 1
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 87.7 %
+Correctness: 87.64 %
+Correctness*: 87.64 %
+Quality: 78.0 %
+Quality*: 78.0 %
+Redundancy: -0.5 %
+Mean distance: 1.11 m
+RMSE: 1.47 m
+------------
+------------
+Vijfeikenstraat 1
+------------
+Total extraction time: 1.28 seconds
+------------
+Completeness: 1.24 %
+Correctness: 1.18 %
+Correctness*: 99.87 %
+Quality: 0.66 %
+Quality*: 55.95 %
+Redundancy: 16.5 %
+Mean distance: 1.7 m
+RMSE: 2.07 m
+------------
+------------
+Interleuvenstraat 1
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.63 m
+RMSE: 0.79 m
+------------
+------------
+Escoriallaan 1
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 2.26 %
+Correctness: 5.45 %
+Correctness*: 100.0 %
+Quality: 1.42 %
+Quality*: 26.1 %
+Redundancy: -20.24 %
+Mean distance: 1.45 m
+RMSE: 1.78 m
+------------
+------------
+Hoogbeemd 1
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 97.46 %
+Correctness: 97.47 %
+Correctness*: 97.47 %
+Quality: 95.07 %
+Quality*: 95.07 %
+Redundancy: 0.59 %
+Mean distance: 1.35 m
+RMSE: 1.69 m
+------------
+------------
+Bieststraat 1
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 84.74 %
+Correctness: 87.41 %
+Correctness*: 87.41 %
+Quality: 75.54 %
+Quality*: 75.54 %
+Redundancy: 0.18 %
+Mean distance: 1.2 m
+RMSE: 1.49 m
+------------
+------------
+Molenbaan 2
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.13 m
+RMSE: 1.34 m
+------------
+------------
+Philipslaan 1
+------------
+Total extraction time: 1.86 seconds
+------------
+Completeness: 93.59 %
+Correctness: 94.07 %
+Correctness*: 94.51 %
+Quality: 88.37 %
+Quality*: 88.79 %
+Redundancy: -0.06 %
+Mean distance: 1.43 m
+RMSE: 1.78 m
+------------
+------------
+Philipslaan 2
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.22 m
+RMSE: 0.4 m
+------------
+------------
+Keulenstraat 1
+------------
+Total extraction time: 2.2 seconds
+------------
+Completeness: 79.29 %
+Correctness: 80.9 %
+Correctness*: 80.9 %
+Quality: 66.78 %
+Quality*: 66.78 %
+Redundancy: -0.05 %
+Mean distance: 1.16 m
+RMSE: 1.42 m
+------------
+------------
+Kolonel Begaultlaan 11
+------------
+Total extraction time: 1.17 seconds
+------------
+Completeness: 91.19 %
+Correctness: 91.69 %
+Correctness*: 91.69 %
+Quality: 84.25 %
+Quality*: 84.25 %
+Redundancy: 0.35 %
+Mean distance: 1.35 m
+RMSE: 1.63 m
+------------
+------------
+Kolonel Begaultlaan 13
+------------
+Total extraction time: 0.95 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.73 %
+Mean distance: 1.45 m
+RMSE: 1.68 m
+------------
+------------
+Termereboslaan 1
+------------
+Total extraction time: 1.39 seconds
+------------
+Completeness: 78.49 %
+Correctness: 78.2 %
+Correctness*: 82.81 %
+Quality: 64.3 %
+Quality*: 68.09 %
+Redundancy: -0.87 %
+Mean distance: 1.4 m
+RMSE: 1.53 m
+------------
+------------
+Processiestraat 2
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.46 %
+Mean distance: 1.04 m
+RMSE: 1.19 m
+------------
+------------
+Willem de Croylaan 2
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 58.47 %
+Correctness: 59.87 %
+Correctness*: 59.87 %
+Quality: 41.99 %
+Quality*: 41.99 %
+Redundancy: -0.1 %
+Mean distance: 1.77 m
+RMSE: 2.06 m
+------------
+------------
+Kerkebroekstraat 1
+------------
+Total extraction time: 2.25 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.47 %
+Mean distance: 0.51 m
+RMSE: 0.78 m
+------------
+------------
+Hertogenveld 1
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.55 %
+Mean distance: 0.86 m
+RMSE: 1.06 m
+------------
+------------
+Segments tested: 160
+Completeness: 81.05 %
+Correctness: 83.28 %
+Correctness*: 87.75 %
+Quality: 69.69 %
+Quality*: 73.44 %
+Redundancy: -0.11 %
+Mean distance: 0.99 m
+RMSE: 1.32 m
+------------
+Total: 569.0 seconds
+------------
+------------
+Slagbaan 1
+------------
+Total extraction time: 1.19 seconds
+------------
+Completeness: 99.78 %
+Correctness: 99.78 %
+Correctness*: 99.78 %
+Quality: 99.56 %
+Quality*: 99.56 %
+Redundancy: 0.37 %
+Mean distance: 0.76 m
+RMSE: 1.19 m
+------------
+------------
+Wijnenberg 1
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 98.01 %
+Correctness: 97.99 %
+Correctness*: 97.99 %
+Quality: 96.06 %
+Quality*: 96.06 %
+Redundancy: -1.04 %
+Mean distance: 0.92 m
+RMSE: 1.28 m
+------------
+------------
+Banhagestraat 2
+------------
+Total extraction time: 1.94 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.08 %
+Mean distance: 0.79 m
+RMSE: 1.07 m
+------------
+------------
+Snoy et D'Oppuerslaan 1
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 2.07 %
+Correctness: 3.08 %
+Correctness*: 100.0 %
+Quality: 1.18 %
+Quality*: 38.42 %
+Redundancy: -9.74 %
+Mean distance: 1.6 m
+RMSE: 1.99 m
+------------
+------------
+Koetsweg 1
+------------
+Total extraction time: 2.7 seconds
+------------
+Completeness: 86.36 %
+Correctness: 86.36 %
+Correctness*: 87.31 %
+Quality: 76.0 %
+Quality*: 76.83 %
+Redundancy: 0.0 %
+Mean distance: 1.27 m
+RMSE: 1.62 m
+------------
+------------
+Koetsweg 4
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 98.93 %
+Correctness: 98.93 %
+Correctness*: 98.93 %
+Quality: 97.88 %
+Quality*: 97.88 %
+Redundancy: 0.28 %
+Mean distance: 1.13 m
+RMSE: 1.33 m
+------------
+------------
+Willem Quarrélaan 1
+------------
+Total extraction time: 0.56 seconds
+------------
+Completeness: 99.65 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 99.65 %
+Quality*: 99.65 %
+Redundancy: -0.75 %
+Mean distance: 1.44 m
+RMSE: 1.7 m
+------------
+------------
+Hoveniersdreef 1
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.16 %
+Mean distance: 0.82 m
+RMSE: 1.16 m
+------------
+------------
+Hoveniersdreef 4
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.58 %
+Mean distance: 0.91 m
+RMSE: 1.08 m
+------------
+------------
+Schaffelkantstraat 3
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 95.38 %
+Correctness: 97.13 %
+Correctness*: 97.13 %
+Quality: 92.78 %
+Quality*: 92.78 %
+Redundancy: 0.34 %
+Mean distance: 0.7 m
+RMSE: 0.92 m
+------------
+------------
+Nachtegalenstraat 2
+------------
+Total extraction time: 1.27 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.12 %
+Mean distance: 0.94 m
+RMSE: 1.27 m
+------------
+------------
+Romeinse straat 1
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.99 %
+Mean distance: 0.91 m
+RMSE: 1.15 m
+------------
+------------
+Romeinse straat 2
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 100.0 %
+Correctness: 98.87 %
+Correctness*: 98.87 %
+Quality: 98.87 %
+Quality*: 98.87 %
+Redundancy: -0.24 %
+Mean distance: 0.49 m
+RMSE: 0.83 m
+------------
+------------
+Milsestraat 1
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.3 %
+Mean distance: 1.3 m
+RMSE: 1.46 m
+------------
+------------
+Milsestraat 3
+------------
+Total extraction time: 1.02 seconds
+------------
+Completeness: 93.15 %
+Correctness: 92.39 %
+Correctness*: 93.34 %
+Quality: 86.5 %
+Quality*: 87.39 %
+Redundancy: -0.18 %
+Mean distance: 1.08 m
+RMSE: 1.29 m
+------------
+------------
+Schuttersveld 4
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.4 %
+Mean distance: 0.9 m
+RMSE: 1.19 m
+------------
+------------
+Lodreef 1
+------------
+Total extraction time: 1.67 seconds
+------------
+Completeness: 4.98 %
+Correctness: 4.82 %
+Correctness*: 5.15 %
+Quality: 2.52 %
+Quality*: 2.69 %
+Redundancy: 0.84 %
+Mean distance: 1.81 m
+RMSE: 2.06 m
+------------
+------------
+Armand Verheydenstraat 3
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 96.32 %
+Correctness: 96.32 %
+Correctness*: 96.32 %
+Quality: 92.9 %
+Quality*: 92.9 %
+Redundancy: 0.0 %
+Mean distance: 0.85 m
+RMSE: 1.19 m
+------------
+------------
+Houwaartstraat 3
+------------
+Total extraction time: 2.02 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.38 m
+RMSE: 1.63 m
+------------
+------------
+Desire Mellaertsstraat 1
+------------
+Total extraction time: 1.69 seconds
+------------
+Completeness: 95.97 %
+Correctness: 97.25 %
+Correctness*: 97.36 %
+Quality: 93.45 %
+Quality*: 93.56 %
+Redundancy: 0.44 %
+Mean distance: 0.81 m
+RMSE: 1.18 m
+------------
+------------
+Segments tested: 180
+Completeness: 81.92 %
+Correctness: 84.06 %
+Correctness*: 88.33 %
+Quality: 70.9 %
+Quality*: 74.5 %
+Redundancy: -0.1 %
+Mean distance: 0.99 m
+RMSE: 1.32 m
+------------
+Total: 641.19 seconds
+------------
+------------
+Broekstraat 9
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 97.92 %
+Correctness: 97.91 %
+Correctness*: 97.91 %
+Quality: 95.9 %
+Quality*: 95.9 %
+Redundancy: -0.61 %
+Mean distance: 0.76 m
+RMSE: 1.11 m
+------------
+------------
+Spaanse Burchtlaan 1
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.5 m
+RMSE: 0.63 m
+------------
+------------
+Swertmolenstraat 4
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 83.4 %
+Correctness: 83.49 %
+Correctness*: 83.49 %
+Quality: 71.65 %
+Quality*: 71.65 %
+Redundancy: 0.59 %
+Mean distance: 1.59 m
+RMSE: 1.85 m
+------------
+------------
+Rotspoelstraat 3
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.23 %
+Mean distance: 1.24 m
+RMSE: 1.53 m
+------------
+------------
+Rotspoelstraat 4
+------------
+Total extraction time: 0.94 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.09 %
+Mean distance: 1.22 m
+RMSE: 1.4 m
+------------
+------------
+Krijkellaan 4
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.28 %
+Mean distance: 1.37 m
+RMSE: 1.49 m
+------------
+------------
+Noormannenstraat 1
+------------
+Total extraction time: 0.95 seconds
+------------
+Completeness: 55.38 %
+Correctness: 58.84 %
+Correctness*: 66.45 %
+Quality: 39.96 %
+Quality*: 45.13 %
+Redundancy: 0.32 %
+Mean distance: 1.05 m
+RMSE: 1.29 m
+------------
+------------
+Sint-Jozefsdreef 1
+------------
+Total extraction time: 1.11 seconds
+------------
+Completeness: 94.79 %
+Correctness: 95.61 %
+Correctness*: 97.83 %
+Quality: 90.84 %
+Quality*: 92.94 %
+Redundancy: -0.16 %
+Mean distance: 1.38 m
+RMSE: 1.62 m
+------------
+------------
+Ziekelingenstraat 1
+------------
+Total extraction time: 1.78 seconds
+------------
+Completeness: 84.86 %
+Correctness: 84.94 %
+Correctness*: 84.94 %
+Quality: 73.74 %
+Quality*: 73.74 %
+Redundancy: -0.23 %
+Mean distance: 1.26 m
+RMSE: 1.62 m
+------------
+------------
+Oude Aarschotseweg 1
+------------
+Total extraction time: 1.11 seconds
+------------
+Completeness: 95.53 %
+Correctness: 96.51 %
+Correctness*: 96.51 %
+Quality: 92.33 %
+Quality*: 92.33 %
+Redundancy: -0.14 %
+Mean distance: 1.0 m
+RMSE: 1.36 m
+------------
+------------
+Rijweg 4
+------------
+Total extraction time: 1.03 seconds
+------------
+Completeness: 96.06 %
+Correctness: 96.08 %
+Correctness*: 96.08 %
+Quality: 92.45 %
+Quality*: 92.45 %
+Redundancy: 0.42 %
+Mean distance: 1.51 m
+RMSE: 1.77 m
+------------
+------------
+Boomgaardstraat 1
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.85 %
+Mean distance: 1.27 m
+RMSE: 1.48 m
+------------
+------------
+Steenweg op Holsbeek 1
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 82.92 %
+Correctness: 83.56 %
+Correctness*: 83.56 %
+Quality: 71.29 %
+Quality*: 71.29 %
+Redundancy: 0.07 %
+Mean distance: 1.1 m
+RMSE: 1.34 m
+------------
+------------
+Wittehoevelaan 2
+------------
+Total extraction time: 0.5 seconds
+------------
+Completeness: 89.09 %
+Correctness: 89.09 %
+Correctness*: 89.09 %
+Quality: 80.32 %
+Quality*: 80.32 %
+Redundancy: 0.0 %
+Mean distance: 1.78 m
+RMSE: 2.03 m
+------------
+------------
+Englebert Carleerlaan 1
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 1.66 %
+Correctness: 3.41 %
+Correctness*: 76.85 %
+Quality: 1.08 %
+Quality*: 24.42 %
+Redundancy: -6.32 %
+Mean distance: 1.57 m
+RMSE: 1.94 m
+------------
+------------
+Platte-Lostraat 2
+------------
+Total extraction time: 1.08 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.29 %
+Mean distance: 1.13 m
+RMSE: 1.35 m
+------------
+------------
+Platte-Lostraat 3
+------------
+Total extraction time: 1.17 seconds
+------------
+Completeness: 99.5 %
+Correctness: 99.49 %
+Correctness*: 99.49 %
+Quality: 98.99 %
+Quality*: 98.99 %
+Redundancy: -0.44 %
+Mean distance: 1.43 m
+RMSE: 1.63 m
+------------
+------------
+Platte-Lostraat 5
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 91.16 %
+Correctness: 91.05 %
+Correctness*: 91.05 %
+Quality: 83.7 %
+Quality*: 83.7 %
+Redundancy: 0.56 %
+Mean distance: 0.88 m
+RMSE: 1.31 m
+------------
+------------
+Platte-Lostraat 6
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 96.77 %
+Correctness: 96.76 %
+Correctness*: 96.76 %
+Quality: 93.72 %
+Quality*: 93.72 %
+Redundancy: -0.24 %
+Mean distance: 1.12 m
+RMSE: 1.5 m
+------------
+------------
+Platte-Lostraat 9
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 81.17 %
+Correctness: 81.17 %
+Correctness*: 81.17 %
+Quality: 68.3 %
+Quality*: 68.3 %
+Redundancy: 0.0 %
+Mean distance: 1.48 m
+RMSE: 1.87 m
+------------
+------------
+Segments tested: 200
+Completeness: 82.4 %
+Correctness: 84.63 %
+Correctness*: 88.72 %
+Quality: 71.66 %
+Quality*: 75.13 %
+Redundancy: -0.1 %
+Mean distance: 1.01 m
+RMSE: 1.34 m
+------------
+Total: 708.34 seconds
+------------
+------------
+Platte-Lostraat 10
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 81.99 %
+Correctness: 81.99 %
+Correctness*: 81.99 %
+Quality: 69.47 %
+Quality*: 69.47 %
+Redundancy: 0.0 %
+Mean distance: 1.0 m
+RMSE: 1.23 m
+------------
+------------
+Heidelaan 1
+------------
+Total extraction time: 0.53 seconds
+------------
+Completeness: 3.23 %
+Correctness: 3.55 %
+Correctness*: 99.63 %
+Quality: 1.71 %
+Quality*: 47.93 %
+Redundancy: -1.5 %
+Mean distance: 1.68 m
+RMSE: 2.03 m
+------------
+------------
+Karekietenlaan 1
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.37 %
+Mean distance: 0.86 m
+RMSE: 1.09 m
+------------
+------------
+Heidebergstraat 4
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.08 %
+Mean distance: 0.99 m
+RMSE: 1.15 m
+------------
+------------
+Heidebergstraat 10
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.48 m
+RMSE: 0.62 m
+------------
+------------
+Heidebergstraat 14
+------------
+Total extraction time: 0.39 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.17 %
+Mean distance: 0.69 m
+RMSE: 0.77 m
+------------
+------------
+Tweekleinewegenstraat 1
+------------
+Total extraction time: 2.47 seconds
+------------
+Completeness: 89.32 %
+Correctness: 89.3 %
+Correctness*: 89.3 %
+Quality: 80.67 %
+Quality*: 80.67 %
+Redundancy: -0.2 %
+Mean distance: 0.93 m
+RMSE: 1.24 m
+------------
+------------
+Roeselveld 1
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 57.94 %
+Correctness: 59.36 %
+Correctness*: 69.3 %
+Quality: 41.19 %
+Quality*: 48.09 %
+Redundancy: -2.38 %
+Mean distance: 1.94 m
+RMSE: 2.13 m
+------------
+------------
+Hoogveldweg 1
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 83.94 %
+Correctness: 87.94 %
+Correctness*: 87.94 %
+Quality: 75.3 %
+Quality*: 75.3 %
+Redundancy: 0.22 %
+Mean distance: 0.57 m
+RMSE: 0.97 m
+------------
+------------
+Bierbeekstraat 1
+------------
+Total extraction time: 2.69 seconds
+------------
+Completeness: 99.03 %
+Correctness: 99.03 %
+Correctness*: 99.03 %
+Quality: 98.07 %
+Quality*: 98.07 %
+Redundancy: -0.13 %
+Mean distance: 1.04 m
+RMSE: 1.3 m
+------------
+------------
+Bierbeekstraat 3
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.55 %
+Mean distance: 1.07 m
+RMSE: 1.39 m
+------------
+------------
+Bierbeekstraat 7
+------------
+Total extraction time: 0.94 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.34 m
+RMSE: 1.44 m
+------------
+------------
+Bierbeekstraat 8
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 52.68 %
+Correctness: 52.33 %
+Correctness*: 52.33 %
+Quality: 35.55 %
+Quality*: 35.55 %
+Redundancy: -0.44 %
+Mean distance: 1.22 m
+RMSE: 1.65 m
+------------
+------------
+Eendebroekstraat 3
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.71 m
+RMSE: 0.99 m
+------------
+------------
+Francis Crabbéstraat 3
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 51.54 %
+Correctness: 48.54 %
+Correctness*: 80.94 %
+Quality: 33.25 %
+Quality*: 55.46 %
+Redundancy: -0.7 %
+Mean distance: 0.76 m
+RMSE: 0.97 m
+------------
+------------
+Bunswijkstraat 3
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.51 m
+RMSE: 1.76 m
+------------
+------------
+Waversebaan 6
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 95.32 %
+Correctness: 96.06 %
+Correctness*: 96.06 %
+Quality: 91.76 %
+Quality*: 91.76 %
+Redundancy: 0.55 %
+Mean distance: 1.2 m
+RMSE: 1.53 m
+------------
+------------
+Waversebaan 21
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 94.06 %
+Correctness: 94.06 %
+Correctness*: 94.06 %
+Quality: 88.78 %
+Quality*: 88.78 %
+Redundancy: 0.0 %
+Mean distance: 1.28 m
+RMSE: 1.62 m
+------------
+------------
+Waversebaan 25
+------------
+Total extraction time: 0.88 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.29 %
+Mean distance: 1.25 m
+RMSE: 1.46 m
+------------
+------------
+Haasroodsestraat 1
+------------
+Total extraction time: 1.63 seconds
+------------
+Completeness: 96.16 %
+Correctness: 95.7 %
+Correctness*: 95.7 %
+Quality: 92.18 %
+Quality*: 92.18 %
+Redundancy: 0.04 %
+Mean distance: 1.13 m
+RMSE: 1.47 m
+------------
+------------
+Segments tested: 220
+Completeness: 82.98 %
+Correctness: 85.06 %
+Correctness*: 89.15 %
+Quality: 72.41 %
+Quality*: 75.9 %
+Redundancy: -0.1 %
+Mean distance: 1.02 m
+RMSE: 1.34 m
+------------
+Total: 776.12 seconds
+------------
+------------
+Op De Vliet 1
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 66.94 %
+Correctness: 66.94 %
+Correctness*: 72.6 %
+Quality: 50.3 %
+Quality*: 54.56 %
+Redundancy: 0.0 %
+Mean distance: 1.21 m
+RMSE: 1.51 m
+------------
+------------
+Dalenstraat 1
+------------
+Total extraction time: 1.02 seconds
+------------
+Completeness: 98.71 %
+Correctness: 98.85 %
+Correctness*: 98.85 %
+Quality: 97.59 %
+Quality*: 97.59 %
+Redundancy: -0.03 %
+Mean distance: 0.66 m
+RMSE: 0.89 m
+------------
+------------
+Kasteelstraat 1
+------------
+Total extraction time: 1.69 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.09 %
+Mean distance: 1.0 m
+RMSE: 1.21 m
+------------
+------------
+Spaanse Kroonlaan 1
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.73 %
+Mean distance: 1.11 m
+RMSE: 1.48 m
+------------
+------------
+Spaanse Kroonlaan 2
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.12 %
+Mean distance: 0.96 m
+RMSE: 1.16 m
+------------
+------------
+Eikstraat 1
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.69 m
+RMSE: 0.83 m
+------------
+------------
+Jozef Vandezandestraat 1
+------------
+Total extraction time: 1.03 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.45 %
+Mean distance: 1.57 m
+RMSE: 1.83 m
+------------
+------------
+Eegstraat 1
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 87.46 %
+Correctness: 88.55 %
+Correctness*: 88.55 %
+Quality: 78.65 %
+Quality*: 78.65 %
+Redundancy: 0.83 %
+Mean distance: 1.11 m
+RMSE: 1.45 m
+------------
+------------
+Kapeldreef 9
+------------
+Total extraction time: 0.98 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.31 %
+Mean distance: 0.82 m
+RMSE: 0.96 m
+------------
+------------
+Wijveld 17
+------------
+Total extraction time: 0.41 seconds
+------------
+Completeness: 57.34 %
+Correctness: 59.15 %
+Correctness*: 62.16 %
+Quality: 41.06 %
+Quality*: 43.15 %
+Redundancy: -0.11 %
+Mean distance: 0.85 m
+RMSE: 1.27 m
+------------
+------------
+Pastoor Legrandstraat 2
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.8 m
+RMSE: 1.03 m
+------------
+------------
+Heikneuterlaan 1
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.9 %
+Mean distance: 0.8 m
+RMSE: 0.99 m
+------------
+------------
+Domeinstraat 3
+------------
+Total extraction time: 1.08 seconds
+------------
+Completeness: 90.23 %
+Correctness: 90.23 %
+Correctness*: 90.23 %
+Quality: 82.19 %
+Quality*: 82.19 %
+Redundancy: 0.0 %
+Mean distance: 1.21 m
+RMSE: 1.46 m
+------------
+------------
+Winkelweg 1
+------------
+Total extraction time: 1.14 seconds
+------------
+Completeness: 2.12 %
+Correctness: 1.59 %
+Correctness*: 86.15 %
+Quality: 0.87 %
+Quality*: 47.19 %
+Redundancy: -12.77 %
+Mean distance: 1.41 m
+RMSE: 1.76 m
+------------
+------------
+Wijgmaalsesteenweg 6
+------------
+Total extraction time: 1.72 seconds
+------------
+Completeness: 91.12 %
+Correctness: 91.12 %
+Correctness*: 91.12 %
+Quality: 83.69 %
+Quality*: 83.69 %
+Redundancy: 0.0 %
+Mean distance: 1.64 m
+RMSE: 1.99 m
+------------
+------------
+Vlierbeekstraat 1
+------------
+Total extraction time: 1.77 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.07 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+------------
+Kartuizersstraat 2
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 39.66 %
+Correctness: 50.38 %
+Correctness*: 53.87 %
+Quality: 28.63 %
+Quality*: 30.61 %
+Redundancy: 0.86 %
+Mean distance: 1.01 m
+RMSE: 1.38 m
+------------
+------------
+Kartuizersstraat 3
+------------
+Total extraction time: 0.38 seconds
+------------
+Completeness: 2.93 %
+Correctness: 7.64 %
+Correctness*: 100.0 %
+Quality: 1.95 %
+Quality*: 25.53 %
+Redundancy: -15.3 %
+Mean distance: 1.55 m
+RMSE: 1.91 m
+------------
+------------
+Kartuizersstraat 4
+------------
+Total extraction time: 1.41 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.36 %
+Mean distance: 1.39 m
+RMSE: 1.64 m
+------------
+------------
+Kartuizersstraat 6
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.74 %
+Mean distance: 1.03 m
+RMSE: 1.29 m
+------------
+------------
+Segments tested: 240
+Completeness: 83.17 %
+Correctness: 85.24 %
+Correctness*: 89.5 %
+Quality: 72.69 %
+Quality*: 76.32 %
+Redundancy: -0.1 %
+Mean distance: 1.02 m
+RMSE: 1.34 m
+------------
+Total: 842.63 seconds
+------------
+------------
+Dalemhof 1
+------------
+Total extraction time: 0.98 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.11 %
+Mean distance: 0.95 m
+RMSE: 1.22 m
+------------
+------------
+Valleistraat 1
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 3.04 %
+Correctness: 3.42 %
+Correctness*: 18.57 %
+Quality: 1.57 %
+Quality*: 8.5 %
+Redundancy: -8.58 %
+Mean distance: 1.42 m
+RMSE: 1.72 m
+------------
+------------
+Pakenstraat 3
+------------
+Total extraction time: 0.88 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.35 %
+Mean distance: 1.44 m
+RMSE: 1.61 m
+------------
+------------
+Pellenbergstraat 1
+------------
+Total extraction time: 1.08 seconds
+------------
+Completeness: 97.06 %
+Correctness: 97.51 %
+Correctness*: 97.51 %
+Quality: 94.7 %
+Quality*: 94.7 %
+Redundancy: -0.46 %
+Mean distance: 1.13 m
+RMSE: 1.35 m
+------------
+------------
+Kloosterbosstraat 1
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 87.82 %
+Correctness: 88.99 %
+Correctness*: 88.99 %
+Quality: 79.2 %
+Quality*: 79.2 %
+Redundancy: -0.08 %
+Mean distance: 0.91 m
+RMSE: 1.19 m
+------------
+------------
+Alsemberglaan 3
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 20.62 %
+Correctness: 44.77 %
+Correctness*: 54.63 %
+Quality: 16.39 %
+Quality*: 20.0 %
+Redundancy: -0.45 %
+Mean distance: 0.98 m
+RMSE: 1.29 m
+------------
+------------
+Gemeentestraat 8
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.26 m
+RMSE: 1.47 m
+------------
+------------
+IJzerenpoortstraat 1
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 37.59 %
+Correctness: 38.7 %
+Correctness*: 38.7 %
+Quality: 23.97 %
+Quality*: 23.97 %
+Redundancy: 4.39 %
+Mean distance: 1.96 m
+RMSE: 2.23 m
+------------
+------------
+Klein Dalenstraat 5
+------------
+Total extraction time: 1.0 seconds
+------------
+Completeness: 99.6 %
+Correctness: 98.81 %
+Correctness*: 98.81 %
+Quality: 98.42 %
+Quality*: 98.42 %
+Redundancy: -0.33 %
+Mean distance: 1.18 m
+RMSE: 1.38 m
+------------
+------------
+Jan Davidtsstraat 2
+------------
+Total extraction time: 1.34 seconds
+------------
+Completeness: 99.31 %
+Correctness: 99.31 %
+Correctness*: 99.31 %
+Quality: 98.62 %
+Quality*: 98.62 %
+Redundancy: 0.0 %
+Mean distance: 1.6 m
+RMSE: 1.84 m
+------------
+------------
+Lüdenscheidsingel 5
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 98.26 %
+Correctness: 98.26 %
+Correctness*: 98.26 %
+Quality: 96.57 %
+Quality*: 96.57 %
+Redundancy: -0.51 %
+Mean distance: 1.23 m
+RMSE: 1.68 m
+------------
+------------
+Wittevrouwestraat 1
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 1.68 %
+Correctness: 1.96 %
+Correctness*: 94.87 %
+Quality: 0.89 %
+Quality*: 43.05 %
+Redundancy: -4.58 %
+Mean distance: 1.55 m
+RMSE: 1.9 m
+------------
+------------
+Vilvoordsebaan 4
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.67 m
+RMSE: 1.86 m
+------------
+------------
+Vilvoordsebaan 5
+------------
+Total extraction time: 1.02 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.24 %
+Mean distance: 0.7 m
+RMSE: 0.89 m
+------------
+------------
+Onze-Lieve-Vrouwstraat 2
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 97.3 %
+Correctness: 97.73 %
+Correctness*: 97.73 %
+Quality: 95.15 %
+Quality*: 95.15 %
+Redundancy: 0.17 %
+Mean distance: 0.85 m
+RMSE: 1.03 m
+------------
+------------
+Onze-Lieve-Vrouwstraat 10
+------------
+Total extraction time: 0.56 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.17 %
+Mean distance: 1.33 m
+RMSE: 1.69 m
+------------
+------------
+Overloopstraat 1
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.5 m
+RMSE: 0.66 m
+------------
+------------
+Herfstlaan 1
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 95.89 %
+Correctness: 96.68 %
+Correctness*: 96.68 %
+Quality: 92.83 %
+Quality*: 92.83 %
+Redundancy: -0.06 %
+Mean distance: 1.58 m
+RMSE: 1.94 m
+------------
+------------
+Pleinstraat 2
+------------
+Total extraction time: 2.34 seconds
+------------
+Completeness: 95.74 %
+Correctness: 96.25 %
+Correctness*: 96.25 %
+Quality: 92.3 %
+Quality*: 92.3 %
+Redundancy: -0.03 %
+Mean distance: 0.97 m
+RMSE: 1.2 m
+------------
+------------
+Ring Noord 2
+------------
+Total extraction time: 0.97 seconds
+------------
+Completeness: 70.33 %
+Correctness: 70.52 %
+Correctness*: 70.52 %
+Quality: 54.47 %
+Quality*: 54.47 %
+Redundancy: 0.91 %
+Mean distance: 0.89 m
+RMSE: 1.25 m
+------------
+------------
+Segments tested: 260
+Completeness: 83.06 %
+Correctness: 85.29 %
+Correctness*: 89.61 %
+Quality: 72.64 %
+Quality*: 76.32 %
+Redundancy: -0.1 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+Total: 909.46 seconds
+------------
+------------
+Langekant 1
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 88.67 %
+Correctness: 87.88 %
+Correctness*: 87.88 %
+Quality: 78.98 %
+Quality*: 78.98 %
+Redundancy: -0.37 %
+Mean distance: 1.63 m
+RMSE: 1.98 m
+------------
+------------
+Weygenstraat 2
+------------
+Total extraction time: 0.97 seconds
+------------
+Completeness: 97.25 %
+Correctness: 97.24 %
+Correctness*: 97.24 %
+Quality: 94.62 %
+Quality*: 94.62 %
+Redundancy: -0.47 %
+Mean distance: 1.08 m
+RMSE: 1.34 m
+------------
+------------
+Koning Leopold III-laan 1
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.11 m
+RMSE: 1.3 m
+------------
+------------
+Koning Leopold III-laan 2
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.44 m
+RMSE: 0.6 m
+------------
+------------
+Pastoriestraat 2
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 77.39 %
+Correctness: 77.73 %
+Correctness*: 77.73 %
+Quality: 63.47 %
+Quality*: 63.47 %
+Redundancy: 1.08 %
+Mean distance: 0.55 m
+RMSE: 0.98 m
+------------
+------------
+Armand Thiérylaan 2
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 97.87 %
+Correctness: 98.75 %
+Correctness*: 98.75 %
+Quality: 96.67 %
+Quality*: 96.67 %
+Redundancy: -0.07 %
+Mean distance: 0.88 m
+RMSE: 1.06 m
+------------
+------------
+Liemingenstraat 2
+------------
+Total extraction time: 0.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.35 %
+Mean distance: 0.83 m
+RMSE: 1.08 m
+------------
+------------
+Dorpstraat 1
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -1.18 %
+Mean distance: 1.06 m
+RMSE: 1.35 m
+------------
+------------
+Dorpstraat 6
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 9.97 %
+Correctness: 13.06 %
+Correctness*: 13.06 %
+Quality: 6.02 %
+Quality*: 6.02 %
+Redundancy: 0.92 %
+Mean distance: 1.41 m
+RMSE: 1.7 m
+------------
+------------
+Bosstraat 3
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 87.83 %
+Correctness: 91.99 %
+Correctness*: 91.99 %
+Quality: 81.58 %
+Quality*: 81.58 %
+Redundancy: -0.08 %
+Mean distance: 1.43 m
+RMSE: 1.61 m
+------------
+------------
+Spoorwegstraat 4
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 34.72 %
+Correctness: 33.17 %
+Correctness*: 100.0 %
+Quality: 20.03 %
+Quality*: 60.38 %
+Redundancy: -5.23 %
+Mean distance: 1.97 m
+RMSE: 2.14 m
+------------
+------------
+Spoorwegstraat 6
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.65 %
+Mean distance: 1.37 m
+RMSE: 1.54 m
+------------
+------------
+Kloosterstraat 1
+------------
+Total extraction time: 1.11 seconds
+------------
+Completeness: 86.87 %
+Correctness: 86.87 %
+Correctness*: 86.87 %
+Quality: 76.79 %
+Quality*: 76.79 %
+Redundancy: 0.0 %
+Mean distance: 1.21 m
+RMSE: 1.56 m
+------------
+------------
+Eenmeilaan 1
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.47 m
+RMSE: 0.65 m
+------------
+------------
+Mortelstraat 3
+------------
+Total extraction time: 1.09 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.08 %
+Mean distance: 1.09 m
+RMSE: 1.32 m
+------------
+------------
+'s-Hertogenlaan 2
+------------
+Total extraction time: 1.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.39 %
+Mean distance: 1.22 m
+RMSE: 1.41 m
+------------
+------------
+Zoutrootjesstraat 2
+------------
+Total extraction time: 1.16 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.91 %
+Mean distance: 1.07 m
+RMSE: 1.29 m
+------------
+------------
+Prinsstraat 1
+------------
+Total extraction time: 1.25 seconds
+------------
+Completeness: 1.75 %
+Correctness: 1.52 %
+Correctness*: 97.21 %
+Quality: 0.84 %
+Quality*: 53.88 %
+Redundancy: 5.43 %
+Mean distance: 1.62 m
+RMSE: 1.94 m
+------------
+------------
+Lange Beemdenlaan 1
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.82 m
+RMSE: 1.0 m
+------------
+------------
+Middelweg 1
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 85.26 %
+Correctness: 85.26 %
+Correctness*: 85.26 %
+Quality: 74.31 %
+Quality*: 74.31 %
+Redundancy: 0.0 %
+Mean distance: 1.2 m
+RMSE: 1.48 m
+------------
+------------
+Segments tested: 280
+Completeness: 83.18 %
+Correctness: 85.24 %
+Correctness*: 89.9 %
+Quality: 72.7 %
+Quality*: 76.68 %
+Redundancy: -0.1 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+Total: 976.09 seconds
+------------
+------------
+Middelweg 2
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 97.15 %
+Correctness: 97.15 %
+Correctness*: 97.15 %
+Quality: 94.45 %
+Quality*: 94.45 %
+Redundancy: -0.17 %
+Mean distance: 0.96 m
+RMSE: 1.21 m
+------------
+------------
+Middelweg 4
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 95.82 %
+Correctness: 95.81 %
+Correctness*: 95.81 %
+Quality: 91.95 %
+Quality*: 91.95 %
+Redundancy: -0.45 %
+Mean distance: 1.81 m
+RMSE: 1.98 m
+------------
+------------
+Groenveldstraat 1
+------------
+Total extraction time: 0.94 seconds
+------------
+Completeness: 95.99 %
+Correctness: 96.85 %
+Correctness*: 96.85 %
+Quality: 93.08 %
+Quality*: 93.08 %
+Redundancy: 0.06 %
+Mean distance: 1.39 m
+RMSE: 1.62 m
+------------
+------------
+Groenveldstraat 3
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.82 %
+Mean distance: 1.48 m
+RMSE: 1.67 m
+------------
+------------
+Galgebergstraat 2
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 76.42 %
+Correctness: 76.42 %
+Correctness*: 76.42 %
+Quality: 61.83 %
+Quality*: 61.83 %
+Redundancy: 0.0 %
+Mean distance: 1.33 m
+RMSE: 1.58 m
+------------
+------------
+Wingeweg 1
+------------
+Total extraction time: 0.53 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.9 m
+RMSE: 1.07 m
+------------
+------------
+Marguerite Lefèvrelaan 1
+------------
+Total extraction time: 1.0 seconds
+------------
+Completeness: 62.06 %
+Correctness: 63.84 %
+Correctness*: 63.84 %
+Quality: 45.81 %
+Quality*: 45.81 %
+Redundancy: -0.84 %
+Mean distance: 1.45 m
+RMSE: 1.66 m
+------------
+------------
+Korbeekdamstraat 1
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 96.59 %
+Correctness: 96.59 %
+Correctness*: 96.59 %
+Quality: 93.4 %
+Quality*: 93.4 %
+Redundancy: 0.0 %
+Mean distance: 0.97 m
+RMSE: 1.35 m
+------------
+------------
+Weggevoerdenstraat 4
+------------
+Total extraction time: 1.09 seconds
+------------
+Completeness: 83.58 %
+Correctness: 83.54 %
+Correctness*: 83.54 %
+Quality: 71.73 %
+Quality*: 71.73 %
+Redundancy: -0.33 %
+Mean distance: 1.02 m
+RMSE: 1.37 m
+------------
+------------
+Weggevoerdenstraat 5
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 79.66 %
+Correctness: 79.72 %
+Correctness*: 79.72 %
+Quality: 66.17 %
+Quality*: 66.17 %
+Redundancy: -0.6 %
+Mean distance: 1.05 m
+RMSE: 1.41 m
+------------
+------------
+Weggevoerdenstraat 10
+------------
+Total extraction time: 0.5 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.79 m
+RMSE: 0.93 m
+------------
+------------
+Reikemstraat 1
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 93.09 %
+Correctness: 93.09 %
+Correctness*: 93.09 %
+Quality: 87.07 %
+Quality*: 87.07 %
+Redundancy: 0.0 %
+Mean distance: 0.75 m
+RMSE: 1.31 m
+------------
+------------
+Abdijstraat 1
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.65 m
+RMSE: 0.88 m
+------------
+------------
+Bijlokstraat 11
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 86.35 %
+Correctness: 87.49 %
+Correctness*: 87.49 %
+Quality: 76.8 %
+Quality*: 76.8 %
+Redundancy: -0.63 %
+Mean distance: 1.33 m
+RMSE: 1.68 m
+------------
+------------
+Nieuwstraat 1
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.16 %
+Mean distance: 0.58 m
+RMSE: 0.69 m
+------------
+------------
+Nieuwstraat 4
+------------
+Total extraction time: 1.89 seconds
+------------
+Completeness: 98.17 %
+Correctness: 98.64 %
+Correctness*: 98.64 %
+Quality: 96.85 %
+Quality*: 96.85 %
+Redundancy: -0.33 %
+Mean distance: 0.99 m
+RMSE: 1.31 m
+------------
+------------
+Ellestraat 2
+------------
+Total extraction time: 2.53 seconds
+------------
+Completeness: 14.25 %
+Correctness: 14.07 %
+Correctness*: 14.07 %
+Quality: 7.6 %
+Quality*: 7.6 %
+Redundancy: -0.48 %
+Mean distance: 1.49 m
+RMSE: 1.79 m
+------------
+------------
+Keiberg 1
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 9.7 %
+Correctness: 11.62 %
+Correctness*: 11.62 %
+Quality: 5.48 %
+Quality*: 5.48 %
+Redundancy: -3.6 %
+Mean distance: 1.06 m
+RMSE: 1.51 m
+------------
+------------
+Keiberg 3
+------------
+Total extraction time: 1.27 seconds
+------------
+Completeness: 10.78 %
+Correctness: 11.79 %
+Correctness*: 99.89 %
+Quality: 5.91 %
+Quality*: 50.03 %
+Redundancy: -2.07 %
+Mean distance: 1.52 m
+RMSE: 1.69 m
+------------
+------------
+Jachtlaan 1
+------------
+Total extraction time: 0.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.97 m
+RMSE: 1.2 m
+------------
+------------
+Segments tested: 300
+Completeness: 82.64 %
+Correctness: 84.66 %
+Correctness*: 89.49 %
+Quality: 71.87 %
+Quality*: 75.97 %
+Redundancy: -0.11 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+Total: 1044.47 seconds
+------------
+------------
+Bronlaan 1
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 99.68 %
+Correctness: 99.68 %
+Correctness*: 99.68 %
+Quality: 99.36 %
+Quality*: 99.36 %
+Redundancy: -0.86 %
+Mean distance: 1.07 m
+RMSE: 1.3 m
+------------
+------------
+Den Bremt 3
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 99.18 %
+Correctness: 98.79 %
+Correctness*: 98.79 %
+Quality: 97.99 %
+Quality*: 97.99 %
+Redundancy: 0.16 %
+Mean distance: 1.02 m
+RMSE: 1.32 m
+------------
+------------
+Keizersstraat 1
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 32.81 %
+Correctness: 31.22 %
+Correctness*: 33.26 %
+Quality: 19.13 %
+Quality*: 20.39 %
+Redundancy: 1.18 %
+Mean distance: 2.19 m
+RMSE: 2.41 m
+------------
+------------
+Eikenbergstraat 2
+------------
+Total extraction time: 0.98 seconds
+------------
+Completeness: 1.69 %
+Correctness: 1.47 %
+Correctness*: 100.0 %
+Quality: 0.78 %
+Quality*: 52.96 %
+Redundancy: -3.83 %
+Mean distance: 1.44 m
+RMSE: 1.83 m
+------------
+------------
+Jozef Ginisstraat 1
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 99.55 %
+Correctness: 98.58 %
+Correctness*: 98.58 %
+Quality: 98.14 %
+Quality*: 98.14 %
+Redundancy: -0.45 %
+Mean distance: 1.33 m
+RMSE: 1.49 m
+------------
+------------
+Brandenstraat 1
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.73 m
+RMSE: 0.93 m
+------------
+------------
+Interleuvenlaan 1
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.55 m
+RMSE: 0.67 m
+------------
+------------
+Interleuvenlaan 4
+------------
+Total extraction time: 0.98 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.44 m
+RMSE: 0.61 m
+------------
+------------
+Wildemansweg 1
+------------
+Total extraction time: 1.06 seconds
+------------
+Completeness: 1.76 %
+Correctness: 1.75 %
+Correctness*: 46.63 %
+Quality: 0.87 %
+Quality*: 23.27 %
+Redundancy: -2.3 %
+Mean distance: 1.51 m
+RMSE: 1.84 m
+------------
+------------
+Poelstraat 1
+------------
+Total extraction time: 1.02 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.09 %
+Mean distance: 0.63 m
+RMSE: 0.97 m
+------------
+------------
+Drielindenstraat 1
+------------
+Total extraction time: 1.77 seconds
+------------
+Completeness: 87.24 %
+Correctness: 87.19 %
+Correctness*: 87.19 %
+Quality: 77.29 %
+Quality*: 77.29 %
+Redundancy: -0.45 %
+Mean distance: 1.32 m
+RMSE: 1.64 m
+------------
+------------
+Ring Zuid 10
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.58 %
+Mean distance: 1.24 m
+RMSE: 1.5 m
+------------
+------------
+John Vanhaerenstraat 1
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.47 m
+RMSE: 0.79 m
+------------
+------------
+Keibergstraat 1
+------------
+Total extraction time: 1.19 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.07 m
+RMSE: 1.35 m
+------------
+------------
+Wijkweg 1
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 62.95 %
+Correctness: 63.43 %
+Correctness*: 63.43 %
+Quality: 45.94 %
+Quality*: 45.94 %
+Redundancy: -2.03 %
+Mean distance: 1.55 m
+RMSE: 1.84 m
+------------
+------------
+Schoonzichtlaan 1
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 28.21 %
+Correctness: 24.56 %
+Correctness*: 82.54 %
+Quality: 15.09 %
+Quality*: 50.71 %
+Redundancy: -0.48 %
+Mean distance: 0.4 m
+RMSE: 0.74 m
+------------
+------------
+Goudfazantenlaan 1
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 77.12 %
+Correctness: 79.34 %
+Correctness*: 79.34 %
+Quality: 64.21 %
+Quality*: 64.21 %
+Redundancy: -0.1 %
+Mean distance: 1.58 m
+RMSE: 1.91 m
+------------
+------------
+Guldensporenlaan 4
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 38.32 %
+Correctness: 58.14 %
+Correctness*: 100.0 %
+Quality: 30.24 %
+Quality*: 52.01 %
+Redundancy: 1.4 %
+Mean distance: 0.96 m
+RMSE: 1.23 m
+------------
+------------
+Kapellelaan 1
+------------
+Total extraction time: 0.88 seconds
+------------
+Completeness: 98.69 %
+Correctness: 98.81 %
+Correctness*: 98.81 %
+Quality: 97.52 %
+Quality*: 97.52 %
+Redundancy: -0.52 %
+Mean distance: 1.24 m
+RMSE: 1.51 m
+------------
+------------
+Industrieweg 1
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 10.69 %
+Correctness: 10.42 %
+Correctness*: 10.42 %
+Quality: 5.55 %
+Quality*: 5.55 %
+Redundancy: -0.67 %
+Mean distance: 1.51 m
+RMSE: 1.84 m
+------------
+------------
+Segments tested: 320
+Completeness: 82.11 %
+Correctness: 84.03 %
+Correctness*: 89.35 %
+Quality: 71.02 %
+Quality*: 75.51 %
+Redundancy: -0.11 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+Total: 1114.61 seconds
+------------
+------------
+Eikeboomlaan 2
+------------
+Total extraction time: 1.14 seconds
+------------
+Completeness: 4.11 %
+Correctness: 3.13 %
+Correctness*: 74.6 %
+Quality: 1.78 %
+Quality*: 42.35 %
+Redundancy: -4.13 %
+Mean distance: 1.67 m
+RMSE: 1.95 m
+------------
+------------
+Neerijsestraat 1
+------------
+Total extraction time: 0.84 seconds
+------------
+Completeness: 26.85 %
+Correctness: 26.74 %
+Correctness*: 29.16 %
+Quality: 15.41 %
+Quality*: 16.81 %
+Redundancy: -0.83 %
+Mean distance: 1.77 m
+RMSE: 2.05 m
+------------
+------------
+Vierhuizenstraat 6
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.96 m
+RMSE: 1.1 m
+------------
+------------
+IJzerenmolenstraat 3
+------------
+Total extraction time: 1.19 seconds
+------------
+Completeness: 64.97 %
+Correctness: 64.97 %
+Correctness*: 64.97 %
+Quality: 48.11 %
+Quality*: 48.11 %
+Redundancy: 0.0 %
+Mean distance: 1.06 m
+RMSE: 1.3 m
+------------
+------------
+IJzerenmolenstraat 5
+------------
+Total extraction time: 1.84 seconds
+------------
+Completeness: 91.16 %
+Correctness: 91.31 %
+Correctness*: 91.31 %
+Quality: 83.89 %
+Quality*: 83.89 %
+Redundancy: 0.24 %
+Mean distance: 1.24 m
+RMSE: 1.5 m
+------------
+------------
+Arnoudt Rulenslaan 2
+------------
+Total extraction time: 1.05 seconds
+------------
+Completeness: 1.98 %
+Correctness: 1.95 %
+Correctness*: 95.61 %
+Quality: 0.98 %
+Quality*: 48.17 %
+Redundancy: -2.02 %
+Mean distance: 1.61 m
+RMSE: 1.98 m
+------------
+------------
+Naamsesteenweg 8
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.53 m
+RMSE: 0.64 m
+------------
+------------
+Naamsesteenweg 23
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.53 m
+RMSE: 0.64 m
+------------
+------------
+Naamsesteenweg 46
+------------
+Total extraction time: 0.41 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.34 m
+RMSE: 0.51 m
+------------
+------------
+Naamsesteenweg 53
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.14 m
+RMSE: 0.32 m
+------------
+------------
+Naamsesteenweg 77
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+Vlietstraat 3
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 82.14 %
+Correctness: 86.55 %
+Correctness*: 86.55 %
+Quality: 72.86 %
+Quality*: 72.86 %
+Redundancy: 0.2 %
+Mean distance: 0.91 m
+RMSE: 1.17 m
+------------
+------------
+Jean Baptist Vanderelststraat 1
+------------
+Total extraction time: 1.07 seconds
+------------
+Completeness: 93.96 %
+Correctness: 94.45 %
+Correctness*: 94.45 %
+Quality: 89.04 %
+Quality*: 89.04 %
+Redundancy: -0.04 %
+Mean distance: 1.21 m
+RMSE: 1.49 m
+------------
+------------
+Wingerdstraat 2
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 1.48 %
+Correctness: 2.47 %
+Correctness*: 100.0 %
+Quality: 0.91 %
+Quality*: 36.88 %
+Redundancy: -3.83 %
+Mean distance: 1.6 m
+RMSE: 1.99 m
+------------
+------------
+Stationsstraat 4
+------------
+Total extraction time: 1.36 seconds
+------------
+Completeness: 98.01 %
+Correctness: 98.01 %
+Correctness*: 98.01 %
+Quality: 96.09 %
+Quality*: 96.09 %
+Redundancy: 0.0 %
+Mean distance: 1.22 m
+RMSE: 1.54 m
+------------
+------------
+Stationsstraat 5
+------------
+Total extraction time: 1.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.35 m
+RMSE: 0.53 m
+------------
+------------
+Stationsstraat 6
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 98.45 %
+Correctness: 98.45 %
+Correctness*: 98.45 %
+Quality: 96.95 %
+Quality*: 96.95 %
+Redundancy: 0.0 %
+Mean distance: 1.36 m
+RMSE: 1.63 m
+------------
+------------
+Fonteinstraat 1
+------------
+Total extraction time: 1.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.7 m
+RMSE: 0.97 m
+------------
+------------
+Borstelsstraat 1
+------------
+Total extraction time: 1.08 seconds
+------------
+Completeness: 90.52 %
+Correctness: 89.72 %
+Correctness*: 95.0 %
+Quality: 82.02 %
+Quality*: 86.85 %
+Redundancy: 0.05 %
+Mean distance: 1.06 m
+RMSE: 1.25 m
+------------
+------------
+Borstelsstraat 3
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.37 m
+RMSE: 1.67 m
+------------
+------------
+Segments tested: 340
+Completeness: 81.96 %
+Correctness: 83.83 %
+Correctness*: 89.54 %
+Quality: 70.76 %
+Quality*: 75.58 %
+Redundancy: -0.11 %
+Mean distance: 1.02 m
+RMSE: 1.34 m
+------------
+Total: 1185.29 seconds
+------------
+------------
+Leuvensebaan 3
+------------
+Total extraction time: 3.25 seconds
+------------
+Completeness: 54.79 %
+Correctness: 55.08 %
+Correctness*: 55.17 %
+Quality: 37.91 %
+Quality*: 37.98 %
+Redundancy: 0.4 %
+Mean distance: 1.89 m
+RMSE: 2.13 m
+------------
+------------
+Leuvensebaan 5
+------------
+Total extraction time: 1.09 seconds
+------------
+Completeness: 95.14 %
+Correctness: 95.12 %
+Correctness*: 95.12 %
+Quality: 90.7 %
+Quality*: 90.7 %
+Redundancy: -0.27 %
+Mean distance: 1.97 m
+RMSE: 2.15 m
+------------
+------------
+Leuvensebaan 6
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 5.12 %
+Correctness: 5.12 %
+Correctness*: 5.12 %
+Quality: 2.63 %
+Quality*: 2.63 %
+Redundancy: -0.0 %
+Mean distance: 1.82 m
+RMSE: 2.11 m
+------------
+------------
+Leuvensebaan 14
+------------
+Total extraction time: 0.39 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.34 m
+RMSE: 0.5 m
+------------
+------------
+Leuvensebaan 16
+------------
+Total extraction time: 0.41 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.31 m
+RMSE: 0.48 m
+------------
+------------
+Vedelweg 1
+------------
+Total extraction time: 0.52 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.61 m
+RMSE: 0.73 m
+------------
+------------
+Steenweg op Nieuwrode 1
+------------
+Total extraction time: 1.78 seconds
+------------
+Completeness: 99.87 %
+Correctness: 99.87 %
+Correctness*: 99.87 %
+Quality: 99.74 %
+Quality*: 99.74 %
+Redundancy: -0.79 %
+Mean distance: 1.21 m
+RMSE: 1.51 m
+------------
+------------
+Steenweg op Nieuwrode 5
+------------
+Total extraction time: 1.06 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.5 %
+Mean distance: 1.07 m
+RMSE: 1.26 m
+------------
+------------
+Berkenhoflaan 1
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 99.66 %
+Correctness: 99.66 %
+Correctness*: 99.66 %
+Quality: 99.33 %
+Quality*: 99.33 %
+Redundancy: 0.33 %
+Mean distance: 1.37 m
+RMSE: 1.66 m
+------------
+------------
+Holsbeeksebaan 1
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 46.63 %
+Correctness: 46.63 %
+Correctness*: 46.63 %
+Quality: 30.41 %
+Quality*: 30.41 %
+Redundancy: 0.0 %
+Mean distance: 1.87 m
+RMSE: 2.12 m
+------------
+------------
+Nobelberg 6
+------------
+Total extraction time: 1.11 seconds
+------------
+Completeness: 79.48 %
+Correctness: 79.02 %
+Correctness*: 79.02 %
+Quality: 65.63 %
+Quality*: 65.63 %
+Redundancy: -0.04 %
+Mean distance: 1.41 m
+RMSE: 1.71 m
+------------
+------------
+Tweebruggenstraat 2
+------------
+Total extraction time: 1.56 seconds
+------------
+Completeness: 1.84 %
+Correctness: 1.24 %
+Correctness*: 96.47 %
+Quality: 0.74 %
+Quality*: 57.0 %
+Redundancy: -4.21 %
+Mean distance: 1.53 m
+RMSE: 1.87 m
+------------
+------------
+Koning Albertlaan 2
+------------
+Total extraction time: 1.36 seconds
+------------
+Completeness: 82.56 %
+Correctness: 81.95 %
+Correctness*: 81.95 %
+Quality: 69.8 %
+Quality*: 69.8 %
+Redundancy: -0.58 %
+Mean distance: 1.98 m
+RMSE: 2.23 m
+------------
+------------
+Persilstraat 1
+------------
+Total extraction time: 0.56 seconds
+------------
+Completeness: 88.83 %
+Correctness: 91.06 %
+Correctness*: 91.06 %
+Quality: 81.7 %
+Quality*: 81.7 %
+Redundancy: -0.06 %
+Mean distance: 1.72 m
+RMSE: 2.01 m
+------------
+------------
+Huttelaan 4
+------------
+Total extraction time: 1.27 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.25 %
+Mean distance: 1.46 m
+RMSE: 1.59 m
+------------
+------------
+Langeveld 5
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 53.56 %
+Correctness: 53.99 %
+Correctness*: 54.89 %
+Quality: 36.77 %
+Quality*: 37.39 %
+Redundancy: -0.03 %
+Mean distance: 1.12 m
+RMSE: 1.6 m
+------------
+------------
+Notelarenweg 1
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 97.43 %
+Correctness: 97.4 %
+Correctness*: 97.4 %
+Quality: 94.93 %
+Quality*: 94.93 %
+Redundancy: -1.2 %
+Mean distance: 1.07 m
+RMSE: 1.33 m
+------------
+------------
+Notelarenweg 2
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 12.56 %
+Correctness: 13.0 %
+Correctness*: 13.0 %
+Quality: 6.84 %
+Quality*: 6.84 %
+Redundancy: 0.53 %
+Mean distance: 1.7 m
+RMSE: 1.99 m
+------------
+------------
+Casinolaan 1
+------------
+Total extraction time: 1.2 seconds
+------------
+Completeness: 94.36 %
+Correctness: 94.59 %
+Correctness*: 96.39 %
+Quality: 89.52 %
+Quality*: 91.22 %
+Redundancy: -0.18 %
+Mean distance: 0.8 m
+RMSE: 1.0 m
+------------
+------------
+Blokkenstraat 1
+------------
+Total extraction time: 0.88 seconds
+------------
+Completeness: 92.84 %
+Correctness: 92.84 %
+Correctness*: 92.84 %
+Quality: 86.64 %
+Quality*: 86.64 %
+Redundancy: 0.0 %
+Mean distance: 1.03 m
+RMSE: 1.36 m
+------------
+------------
+Segments tested: 360
+Completeness: 81.63 %
+Correctness: 83.3 %
+Correctness*: 89.08 %
+Quality: 70.14 %
+Quality*: 75.01 %
+Redundancy: -0.11 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+Total: 1251.49 seconds
+------------
+------------
+Wolvendreef 2
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.26 %
+Mean distance: 1.21 m
+RMSE: 1.28 m
+------------
+------------
+Pieter Nollekensstraat 1
+------------
+Total extraction time: 1.0 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.11 %
+Mean distance: 0.9 m
+RMSE: 1.18 m
+------------
+------------
+Van der Nootstraat 1
+------------
+Total extraction time: 1.08 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.32 %
+Mean distance: 0.82 m
+RMSE: 1.11 m
+------------
+------------
+Van der Nootstraat 2
+------------
+Total extraction time: 1.5 seconds
+------------
+Completeness: 96.49 %
+Correctness: 96.82 %
+Correctness*: 96.82 %
+Quality: 93.51 %
+Quality*: 93.51 %
+Redundancy: -0.4 %
+Mean distance: 0.98 m
+RMSE: 1.28 m
+------------
+------------
+Aambeeldstraat 1
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 95.55 %
+Correctness: 95.82 %
+Correctness*: 95.82 %
+Quality: 91.71 %
+Quality*: 91.71 %
+Redundancy: -0.47 %
+Mean distance: 1.1 m
+RMSE: 1.38 m
+------------
+------------
+Kastanjelaan 1
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.29 m
+RMSE: 0.46 m
+------------
+------------
+Achturenstraat 2
+------------
+Total extraction time: 0.88 seconds
+------------
+Completeness: 91.99 %
+Correctness: 91.98 %
+Correctness*: 91.98 %
+Quality: 85.15 %
+Quality*: 85.15 %
+Redundancy: -0.14 %
+Mean distance: 1.22 m
+RMSE: 1.49 m
+------------
+------------
+7de Liniestraat 1
+------------
+Total extraction time: 1.84 seconds
+------------
+Completeness: 1.8 %
+Correctness: 1.33 %
+Correctness*: 87.42 %
+Quality: 0.76 %
+Quality*: 49.9 %
+Redundancy: -3.95 %
+Mean distance: 1.67 m
+RMSE: 2.04 m
+------------
+------------
+7de Liniestraat 2
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.47 m
+RMSE: 1.72 m
+------------
+------------
+Rene Eversstraat 1
+------------
+Total extraction time: 0.88 seconds
+------------
+Completeness: 97.9 %
+Correctness: 97.9 %
+Correctness*: 97.9 %
+Quality: 95.89 %
+Quality*: 95.89 %
+Redundancy: 0.12 %
+Mean distance: 0.85 m
+RMSE: 1.11 m
+------------
+------------
+Hagelandstraat 2
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.96 %
+Mean distance: 1.43 m
+RMSE: 1.59 m
+------------
+------------
+Oaselaan 7
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 88.04 %
+Correctness: 89.93 %
+Correctness*: 89.93 %
+Quality: 80.17 %
+Quality*: 80.17 %
+Redundancy: 0.25 %
+Mean distance: 1.19 m
+RMSE: 1.45 m
+------------
+------------
+Warotstraat 3
+------------
+Total extraction time: 1.28 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.68 m
+RMSE: 0.82 m
+------------
+------------
+Egenhovenstraat 11
+------------
+Total extraction time: 0.63 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.81 m
+RMSE: 0.94 m
+------------
+------------
+Kloosterweg 2
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 26.19 %
+Correctness: 28.72 %
+Correctness*: 30.57 %
+Quality: 15.9 %
+Quality*: 16.92 %
+Redundancy: 0.36 %
+Mean distance: 1.91 m
+RMSE: 2.13 m
+------------
+------------
+Kouterstraat 3
+------------
+Total extraction time: 1.33 seconds
+------------
+Completeness: 99.47 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 99.47 %
+Quality*: 99.47 %
+Redundancy: -0.07 %
+Mean distance: 0.88 m
+RMSE: 1.01 m
+------------
+------------
+Kouterstraat 7
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 95.27 %
+Correctness: 95.93 %
+Correctness*: 95.93 %
+Quality: 91.56 %
+Quality*: 91.56 %
+Redundancy: -0.15 %
+Mean distance: 0.93 m
+RMSE: 1.13 m
+------------
+------------
+Van Couwenhovenlaan 2
+------------
+Total extraction time: 2.75 seconds
+------------
+Completeness: 96.61 %
+Correctness: 96.61 %
+Correctness*: 96.61 %
+Quality: 93.44 %
+Quality*: 93.44 %
+Redundancy: 0.0 %
+Mean distance: 1.54 m
+RMSE: 1.82 m
+------------
+------------
+Willem Coosemansstraat 2
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 96.04 %
+Correctness: 96.04 %
+Correctness*: 96.04 %
+Quality: 92.38 %
+Quality*: 92.38 %
+Redundancy: 0.0 %
+Mean distance: 1.08 m
+RMSE: 1.35 m
+------------
+------------
+Willem Coosemansstraat 3
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.11 m
+RMSE: 1.31 m
+------------
+------------
+Segments tested: 380
+Completeness: 82.03 %
+Correctness: 83.57 %
+Correctness*: 89.36 %
+Quality: 70.63 %
+Quality*: 75.52 %
+Redundancy: -0.11 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+Total: 1324.22 seconds
+------------
+------------
+Brandweg 2
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 90.35 %
+Correctness: 90.35 %
+Correctness*: 90.35 %
+Quality: 82.4 %
+Quality*: 82.4 %
+Redundancy: -0.0 %
+Mean distance: 1.02 m
+RMSE: 1.27 m
+------------
+------------
+Winkselsesteenweg 3
+------------
+Total extraction time: 1.88 seconds
+------------
+Completeness: 21.35 %
+Correctness: 12.53 %
+Correctness*: 97.41 %
+Quality: 8.58 %
+Quality*: 66.72 %
+Redundancy: 0.35 %
+Mean distance: 1.5 m
+RMSE: 1.75 m
+------------
+------------
+Milseweg 4
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 84.12 %
+Correctness: 84.83 %
+Correctness*: 86.59 %
+Quality: 73.11 %
+Quality*: 74.62 %
+Redundancy: -0.12 %
+Mean distance: 1.3 m
+RMSE: 1.62 m
+------------
+------------
+Henricus Bosmanslaan 2
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.52 %
+Mean distance: 0.69 m
+RMSE: 0.88 m
+------------
+------------
+Sint-Franciscusberg 1
+------------
+Total extraction time: 1.05 seconds
+------------
+Completeness: 1.78 %
+Correctness: 1.73 %
+Correctness*: 99.8 %
+Quality: 0.88 %
+Quality*: 51.04 %
+Redundancy: 0.0 %
+Mean distance: 1.61 m
+RMSE: 1.98 m
+------------
+------------
+Hoogstraat 2
+------------
+Total extraction time: 1.25 seconds
+------------
+Completeness: 90.87 %
+Correctness: 91.34 %
+Correctness*: 91.34 %
+Quality: 83.64 %
+Quality*: 83.64 %
+Redundancy: -0.28 %
+Mean distance: 2.01 m
+RMSE: 2.15 m
+------------
+------------
+Bremveldstraat 1
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.11 m
+RMSE: 0.29 m
+------------
+------------
+Louis Woutersstraat 1
+------------
+Total extraction time: 1.02 seconds
+------------
+Completeness: 98.02 %
+Correctness: 97.37 %
+Correctness*: 97.37 %
+Quality: 95.49 %
+Quality*: 95.49 %
+Redundancy: -0.5 %
+Mean distance: 1.07 m
+RMSE: 1.27 m
+------------
+------------
+Hertogstraat 4
+------------
+Total extraction time: 1.39 seconds
+------------
+Completeness: 23.89 %
+Correctness: 24.53 %
+Correctness*: 25.67 %
+Quality: 13.9 %
+Quality*: 14.54 %
+Redundancy: 2.06 %
+Mean distance: 1.72 m
+RMSE: 2.03 m
+------------
+------------
+Hertogstraat 7
+------------
+Total extraction time: 0.55 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.17 %
+Mean distance: 0.57 m
+RMSE: 0.69 m
+------------
+------------
+Hertogstraat 9
+------------
+Total extraction time: 1.77 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.16 %
+Mean distance: 1.15 m
+RMSE: 1.37 m
+------------
+------------
+Hertogstraat 10
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.57 %
+Mean distance: 0.78 m
+RMSE: 0.98 m
+------------
+------------
+Leeuwerikenstraat 1
+------------
+Total extraction time: 2.36 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.09 %
+Mean distance: 1.0 m
+RMSE: 1.3 m
+------------
+------------
+Zavelputstraat 2
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 44.8 %
+Correctness: 44.0 %
+Correctness*: 44.0 %
+Quality: 28.48 %
+Quality*: 28.48 %
+Redundancy: -0.51 %
+Mean distance: 1.4 m
+RMSE: 1.69 m
+------------
+------------
+Brugstraat 2
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.04 m
+RMSE: 1.38 m
+------------
+------------
+Tivolistraat 3
+------------
+Total extraction time: 0.52 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.19 m
+RMSE: 0.38 m
+------------
+------------
+Tivolistraat 4
+------------
+Total extraction time: 0.88 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.91 m
+RMSE: 1.11 m
+------------
+------------
+Weidestraat 2
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.47 %
+Mean distance: 0.71 m
+RMSE: 0.94 m
+------------
+------------
+Hazenfonteinstraat 2
+------------
+Total extraction time: 1.28 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.28 %
+Mean distance: 1.36 m
+RMSE: 1.56 m
+------------
+------------
+Pastoor Eeckelaerslaan 1
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.14 m
+RMSE: 1.36 m
+------------
+------------
+Segments tested: 400
+Completeness: 82.06 %
+Correctness: 83.34 %
+Correctness*: 89.54 %
+Quality: 70.48 %
+Quality*: 75.73 %
+Redundancy: -0.12 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+Total: 1395.56 seconds
+------------
+------------
+Groeneweg 2
+------------
+Total extraction time: 1.09 seconds
+------------
+Completeness: 97.21 %
+Correctness: 97.3 %
+Correctness*: 97.3 %
+Quality: 94.63 %
+Quality*: 94.63 %
+Redundancy: -0.99 %
+Mean distance: 0.67 m
+RMSE: 0.99 m
+------------
+------------
+Speelbergweg 1
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.19 %
+Mean distance: 0.91 m
+RMSE: 1.09 m
+------------
+------------
+Bukenstraat 1
+------------
+Total extraction time: 1.03 seconds
+------------
+Completeness: 59.18 %
+Correctness: 59.63 %
+Correctness*: 59.63 %
+Quality: 42.24 %
+Quality*: 42.24 %
+Redundancy: -0.09 %
+Mean distance: 1.58 m
+RMSE: 1.79 m
+------------
+------------
+Asseltveld 2
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.04 m
+RMSE: 0.17 m
+------------
+------------
+Sergeysstraat 1
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.57 m
+RMSE: 0.75 m
+------------
+------------
+Oud-Strijdersstraat 1
+------------
+Total extraction time: 1.7 seconds
+------------
+Completeness: 86.5 %
+Correctness: 85.73 %
+Correctness*: 86.66 %
+Quality: 75.61 %
+Quality*: 76.43 %
+Redundancy: -0.04 %
+Mean distance: 1.23 m
+RMSE: 1.59 m
+------------
+------------
+Blandenstraat 3
+------------
+Total extraction time: 1.33 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.62 %
+Mean distance: 1.12 m
+RMSE: 1.4 m
+------------
+------------
+Blandenstraat 4
+------------
+Total extraction time: 1.38 seconds
+------------
+Completeness: 97.46 %
+Correctness: 98.13 %
+Correctness*: 98.13 %
+Quality: 95.67 %
+Quality*: 95.67 %
+Redundancy: -0.35 %
+Mean distance: 1.48 m
+RMSE: 1.76 m
+------------
+------------
+Blandenstraat 7
+------------
+Total extraction time: 1.11 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.56 m
+RMSE: 0.73 m
+------------
+------------
+Straetmanshof 1
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.05 %
+Mean distance: 0.85 m
+RMSE: 1.27 m
+------------
+------------
+Eburonenlaan 1
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.18 m
+RMSE: 0.37 m
+------------
+------------
+Alex Vermaelenstraat 1
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.4 m
+RMSE: 0.55 m
+------------
+------------
+Sint-Jansbergsesteenweg 33
+------------
+Total extraction time: 0.56 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.35 m
+RMSE: 0.52 m
+------------
+------------
+Sint-Jansbergsesteenweg 34
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.19 m
+RMSE: 1.43 m
+------------
+------------
+Sterrenlaan 1
+------------
+Total extraction time: 0.84 seconds
+------------
+Completeness: 1.82 %
+Correctness: 2.64 %
+Correctness*: 9.69 %
+Quality: 1.11 %
+Quality*: 4.07 %
+Redundancy: 3.07 %
+Mean distance: 1.56 m
+RMSE: 1.87 m
+------------
+------------
+Waterstraat 1
+------------
+Total extraction time: 1.2 seconds
+------------
+Completeness: 88.98 %
+Correctness: 88.38 %
+Correctness*: 88.38 %
+Quality: 79.62 %
+Quality*: 79.62 %
+Redundancy: -0.56 %
+Mean distance: 1.79 m
+RMSE: 1.96 m
+------------
+------------
+Gebroeders Tassetstraat 1
+------------
+Total extraction time: 1.42 seconds
+------------
+Completeness: 68.89 %
+Correctness: 69.39 %
+Correctness*: 69.39 %
+Quality: 52.91 %
+Quality*: 52.91 %
+Redundancy: 0.59 %
+Mean distance: 2.19 m
+RMSE: 2.42 m
+------------
+------------
+Rooistraat 1
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 44.77 %
+Correctness: 55.4 %
+Correctness*: 85.83 %
+Quality: 32.86 %
+Quality*: 50.9 %
+Redundancy: -0.39 %
+Mean distance: 0.92 m
+RMSE: 1.16 m
+------------
+------------
+Bergenstraat 3
+------------
+Total extraction time: 1.58 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.68 m
+RMSE: 0.87 m
+------------
+------------
+Bergenstraat 7
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 93.38 %
+Correctness: 93.36 %
+Correctness*: 93.36 %
+Quality: 87.54 %
+Quality*: 87.54 %
+Redundancy: -0.34 %
+Mean distance: 1.65 m
+RMSE: 1.94 m
+------------
+------------
+Segments tested: 420
+Completeness: 82.17 %
+Correctness: 83.52 %
+Correctness*: 89.51 %
+Quality: 70.69 %
+Quality*: 75.76 %
+Redundancy: -0.12 %
+Mean distance: 1.03 m
+RMSE: 1.35 m
+------------
+Total: 1464.4 seconds
+------------
+------------
+Bergenstraat 8
+------------
+Total extraction time: 1.17 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.43 %
+Mean distance: 1.22 m
+RMSE: 1.44 m
+------------
+------------
+Brusselsesteenweg 24
+------------
+Total extraction time: 1.0 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.52 m
+RMSE: 0.69 m
+------------
+------------
+Krekelhof 1
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 95.96 %
+Correctness: 97.14 %
+Correctness*: 97.14 %
+Quality: 93.31 %
+Quality*: 93.31 %
+Redundancy: -0.51 %
+Mean distance: 1.25 m
+RMSE: 1.5 m
+------------
+------------
+Diependaalweg 2
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 85.29 %
+Correctness: 85.43 %
+Correctness*: 85.43 %
+Quality: 74.42 %
+Quality*: 74.42 %
+Redundancy: -0.42 %
+Mean distance: 0.97 m
+RMSE: 1.27 m
+------------
+------------
+Mothstraat 1
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 92.43 %
+Correctness: 94.32 %
+Correctness*: 94.32 %
+Quality: 87.55 %
+Quality*: 87.55 %
+Redundancy: -0.07 %
+Mean distance: 1.37 m
+RMSE: 1.69 m
+------------
+------------
+Bergstraat 5
+------------
+Total extraction time: 0.84 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.67 %
+Mean distance: 1.35 m
+RMSE: 1.58 m
+------------
+------------
+Bergstraat 7
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 98.95 %
+Correctness: 98.95 %
+Correctness*: 98.95 %
+Quality: 97.92 %
+Quality*: 97.92 %
+Redundancy: -0.2 %
+Mean distance: 1.46 m
+RMSE: 1.75 m
+------------
+------------
+Bergstraat 8
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 2.02 m
+RMSE: 2.26 m
+------------
+------------
+Bergstraat 9
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 99.32 %
+Correctness: 99.32 %
+Correctness*: 99.32 %
+Quality: 98.65 %
+Quality*: 98.65 %
+Redundancy: -0.4 %
+Mean distance: 0.95 m
+RMSE: 1.25 m
+------------
+------------
+Tiensesteenweg 7
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.17 m
+RMSE: 0.36 m
+------------
+------------
+Tiensesteenweg 36
+------------
+Total extraction time: 0.56 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.21 m
+RMSE: 0.4 m
+------------
+------------
+Jules Persoonsstraat 1
+------------
+Total extraction time: 1.05 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.84 m
+RMSE: 1.03 m
+------------
+------------
+Sneppenstraat 1
+------------
+Total extraction time: 1.72 seconds
+------------
+Completeness: 79.43 %
+Correctness: 79.26 %
+Correctness*: 79.26 %
+Quality: 65.64 %
+Quality*: 65.64 %
+Redundancy: -1.09 %
+Mean distance: 1.33 m
+RMSE: 1.65 m
+------------
+------------
+Spaarstraat 1
+------------
+Total extraction time: 1.89 seconds
+------------
+Completeness: 97.64 %
+Correctness: 98.19 %
+Correctness*: 98.19 %
+Quality: 95.92 %
+Quality*: 95.92 %
+Redundancy: 0.12 %
+Mean distance: 0.95 m
+RMSE: 1.16 m
+------------
+------------
+Eugeen Vanhoorenbekelaan 4
+------------
+Total extraction time: 0.52 seconds
+------------
+Completeness: 86.74 %
+Correctness: 91.26 %
+Correctness*: 91.26 %
+Quality: 80.07 %
+Quality*: 80.07 %
+Redundancy: -0.19 %
+Mean distance: 0.75 m
+RMSE: 1.04 m
+------------
+------------
+Aarschotsesteenweg 5
+------------
+Total extraction time: 1.13 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.6 m
+RMSE: 0.74 m
+------------
+------------
+Aarschotsesteenweg 10
+------------
+Total extraction time: 1.34 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.22 m
+RMSE: 0.41 m
+------------
+------------
+Aarschotsesteenweg 11
+------------
+Total extraction time: 1.03 seconds
+------------
+Completeness: 94.0 %
+Correctness: 94.0 %
+Correctness*: 94.0 %
+Quality: 88.68 %
+Quality*: 88.68 %
+Redundancy: 0.0 %
+Mean distance: 1.39 m
+RMSE: 1.66 m
+------------
+------------
+Aarschotsesteenweg 15
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.28 m
+RMSE: 0.46 m
+------------
+------------
+Aarschotsesteenweg 17
+------------
+Total extraction time: 0.84 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.13 m
+RMSE: 0.31 m
+------------
+------------
+Segments tested: 440
+Completeness: 82.89 %
+Correctness: 84.2 %
+Correctness*: 89.9 %
+Quality: 71.72 %
+Quality*: 76.57 %
+Redundancy: -0.12 %
+Mean distance: 1.02 m
+RMSE: 1.34 m
+------------
+Total: 1533.55 seconds
+------------
+------------
+Aarschotsesteenweg 35
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.41 m
+RMSE: 0.57 m
+------------
+------------
+Aarschotsesteenweg 52
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.19 m
+RMSE: 0.38 m
+------------
+------------
+Aarschotsesteenweg 62
+------------
+Total extraction time: 1.31 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.08 %
+Mean distance: 0.68 m
+RMSE: 0.88 m
+------------
+------------
+Baron Descampslaan 1
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.13 %
+Mean distance: 1.49 m
+RMSE: 1.74 m
+------------
+------------
+Guido Gezellelaan 1
+------------
+Total extraction time: 1.34 seconds
+------------
+Completeness: 45.27 %
+Correctness: 45.64 %
+Correctness*: 45.64 %
+Quality: 29.4 %
+Quality*: 29.4 %
+Redundancy: -0.12 %
+Mean distance: 1.8 m
+RMSE: 2.06 m
+------------
+------------
+Eikenhof 1
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 2.49 %
+Correctness: 2.27 %
+Correctness*: 100.0 %
+Quality: 1.2 %
+Quality*: 52.98 %
+Redundancy: 0.0 %
+Mean distance: 1.55 m
+RMSE: 1.89 m
+------------
+------------
+Lipsestraat 1
+------------
+Total extraction time: 2.13 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.06 %
+Mean distance: 1.17 m
+RMSE: 1.34 m
+------------
+------------
+Vlinderlaan 1
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 70.52 %
+Correctness: 68.89 %
+Correctness*: 68.89 %
+Quality: 53.6 %
+Quality*: 53.6 %
+Redundancy: 0.88 %
+Mean distance: 1.21 m
+RMSE: 1.4 m
+------------
+------------
+Hof Ter Eikenlaan 1
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.14 m
+RMSE: 1.43 m
+------------
+------------
+Wakkerzeelsebaan 1
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.77 m
+RMSE: 0.92 m
+------------
+------------
+Wakkerzeelsebaan 4
+------------
+Total extraction time: 1.17 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.32 m
+RMSE: 1.46 m
+------------
+------------
+Heerstraat 1
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 94.25 %
+Correctness: 94.35 %
+Correctness*: 94.35 %
+Quality: 89.19 %
+Quality*: 89.19 %
+Redundancy: -0.62 %
+Mean distance: 0.77 m
+RMSE: 1.14 m
+------------
+------------
+Kerkstraat 2
+------------
+Total extraction time: 1.33 seconds
+------------
+Completeness: 98.06 %
+Correctness: 98.06 %
+Correctness*: 98.06 %
+Quality: 96.19 %
+Quality*: 96.19 %
+Redundancy: -0.24 %
+Mean distance: 0.8 m
+RMSE: 1.13 m
+------------
+------------
+Tildonksesteenweg 1
+------------
+Total extraction time: 1.03 seconds
+------------
+Completeness: 95.03 %
+Correctness: 95.5 %
+Correctness*: 95.5 %
+Quality: 90.93 %
+Quality*: 90.93 %
+Redundancy: -0.41 %
+Mean distance: 1.15 m
+RMSE: 1.45 m
+------------
+------------
+Tildonksesteenweg 2
+------------
+Total extraction time: 1.76 seconds
+------------
+Completeness: 90.79 %
+Correctness: 90.76 %
+Correctness*: 90.76 %
+Quality: 83.08 %
+Quality*: 83.08 %
+Redundancy: -0.34 %
+Mean distance: 1.38 m
+RMSE: 1.66 m
+------------
+------------
+Geldenaaksebaan 4
+------------
+Total extraction time: 1.83 seconds
+------------
+Completeness: 89.41 %
+Correctness: 90.08 %
+Correctness*: 90.08 %
+Quality: 81.4 %
+Quality*: 81.4 %
+Redundancy: 0.06 %
+Mean distance: 1.02 m
+RMSE: 1.45 m
+------------
+------------
+Geldenaaksebaan 11
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 47.36 %
+Correctness: 47.36 %
+Correctness*: 47.36 %
+Quality: 31.02 %
+Quality*: 31.02 %
+Redundancy: 0.0 %
+Mean distance: 1.73 m
+RMSE: 2.03 m
+------------
+------------
+Geldenaaksebaan 20
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.21 %
+Mean distance: 0.77 m
+RMSE: 1.16 m
+------------
+------------
+Ormendaal 1
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.32 %
+Mean distance: 0.69 m
+RMSE: 0.86 m
+------------
+------------
+Dellestraat 4
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.66 m
+RMSE: 0.87 m
+------------
+------------
+Segments tested: 460
+Completeness: 83.12 %
+Correctness: 84.36 %
+Correctness*: 89.97 %
+Quality: 72.01 %
+Quality*: 76.8 %
+Redundancy: -0.12 %
+Mean distance: 1.02 m
+RMSE: 1.34 m
+------------
+Total: 1604.85 seconds
+------------
+------------
+Dellestraat 6
+------------
+Total extraction time: 0.52 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.91 m
+RMSE: 1.1 m
+------------
+------------
+Dellestraat 7
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 87.16 %
+Correctness: 87.12 %
+Correctness*: 87.12 %
+Quality: 77.18 %
+Quality*: 77.18 %
+Redundancy: -0.36 %
+Mean distance: 1.3 m
+RMSE: 1.65 m
+------------
+------------
+Vinkenbosstraat 1
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.9 %
+Mean distance: 0.44 m
+RMSE: 0.87 m
+------------
+------------
+Eikeblok 1
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 23.1 %
+Correctness: 62.26 %
+Correctness*: 100.0 %
+Quality: 20.1 %
+Quality*: 32.28 %
+Redundancy: -1.2 %
+Mean distance: 0.36 m
+RMSE: 0.7 m
+------------
+------------
+Leopold Decouxlaan 1
+------------
+Total extraction time: 1.25 seconds
+------------
+Completeness: 87.68 %
+Correctness: 88.22 %
+Correctness*: 88.22 %
+Quality: 78.49 %
+Quality*: 78.49 %
+Redundancy: -0.02 %
+Mean distance: 1.69 m
+RMSE: 1.94 m
+------------
+------------
+Leopold Decouxlaan 2
+------------
+Total extraction time: 2.63 seconds
+------------
+Completeness: 8.15 %
+Correctness: 7.42 %
+Correctness*: 55.37 %
+Quality: 4.11 %
+Quality*: 30.66 %
+Redundancy: 3.56 %
+Mean distance: 2.09 m
+RMSE: 2.36 m
+------------
+------------
+Saffranenbergstraat 1
+------------
+Total extraction time: 0.5 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.25 m
+RMSE: 0.44 m
+------------
+------------
+Bergenlaan 1
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 91.58 %
+Correctness: 91.58 %
+Correctness*: 91.58 %
+Quality: 84.46 %
+Quality*: 84.46 %
+Redundancy: -0.0 %
+Mean distance: 1.16 m
+RMSE: 1.35 m
+------------
+------------
+Rerum Novarumlaan 2
+------------
+Total extraction time: 0.56 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.05 m
+RMSE: 1.16 m
+------------
+------------
+Segments tested: 469
+Total distance extracted: 199.06 km
+Total distance reference: 202.38 km
+Buffer width: 4.5 pixels
+------------
+Completeness: 82.89 %
+Correctness: 84.17 %
+Correctness*: 89.9 %
+Quality: 71.7 %
+Quality*: 76.57 %
+Redundancy: -0.12 %
+Mean distance: 1.02 m
+RMSE: 1.34 m
+------------
+Average time per extraction: 0.97 seconds
+Total extraction time: 455.23 seconds
+------------
+* using all roads in the image as reference instead of only the desired road

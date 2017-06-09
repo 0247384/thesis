@@ -1,0 +1,410 @@
+------------
+motorway-link 2
+------------
+Total extraction time: 1.18 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.21 m
+RMSE: 1.45 m
+------------
+------------
+motorway-link 8
+------------
+Total extraction time: 0.97 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.59 m
+RMSE: 0.81 m
+------------
+------------
+motorway-link 10
+------------
+Total extraction time: 1.02 seconds
+------------
+Completeness: 38.13 %
+Correctness: 38.13 %
+Correctness*: 40.45 %
+Quality: 23.55 %
+Quality*: 24.99 %
+Redundancy: -0.0 %
+Mean distance: 1.94 m
+RMSE: 2.23 m
+------------
+------------
+motorway-link 11
+------------
+Total extraction time: 0.84 seconds
+------------
+Completeness: 82.09 %
+Correctness: 81.1 %
+Correctness*: 97.98 %
+Quality: 68.87 %
+Quality*: 83.2 %
+Redundancy: -0.38 %
+Mean distance: 0.6 m
+RMSE: 0.92 m
+------------
+------------
+motorway-link 12
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.79 m
+RMSE: 1.03 m
+------------
+------------
+motorway-link 18
+------------
+Total extraction time: 0.81 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.53 m
+RMSE: 0.66 m
+------------
+------------
+motorway-link 24
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 1.98 %
+Correctness: 4.66 %
+Correctness*: 68.04 %
+Quality: 1.37 %
+Quality*: 19.99 %
+Redundancy: -4.21 %
+Mean distance: 1.55 m
+RMSE: 1.91 m
+------------
+------------
+motorway-link 25
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.61 m
+RMSE: 0.75 m
+------------
+------------
+motorway-link 29
+------------
+Total extraction time: 0.98 seconds
+------------
+Completeness: 84.76 %
+Correctness: 84.77 %
+Correctness*: 90.88 %
+Quality: 73.57 %
+Quality*: 78.86 %
+Redundancy: 0.09 %
+Mean distance: 1.39 m
+RMSE: 1.6 m
+------------
+------------
+motorway-link 30
+------------
+Total extraction time: 1.56 seconds
+------------
+Completeness: 2.99 %
+Correctness: 3.7 %
+Correctness*: 13.4 %
+Quality: 1.69 %
+Quality*: 6.1 %
+Redundancy: 0.47 %
+Mean distance: 1.7 m
+RMSE: 2.01 m
+------------
+------------
+motorway-link 32
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.42 m
+RMSE: 0.56 m
+------------
+------------
+motorway-link 33
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 84.72 %
+Correctness: 85.54 %
+Correctness*: 85.54 %
+Quality: 74.16 %
+Quality*: 74.16 %
+Redundancy: 0.56 %
+Mean distance: 1.8 m
+RMSE: 2.06 m
+------------
+------------
+motorway-link 34
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 97.51 %
+Correctness: 98.52 %
+Correctness*: 98.52 %
+Quality: 96.11 %
+Quality*: 96.11 %
+Redundancy: -0.07 %
+Mean distance: 1.24 m
+RMSE: 1.37 m
+------------
+------------
+motorway-link 35
+------------
+Total extraction time: 1.55 seconds
+------------
+Completeness: 2.47 %
+Correctness: 2.57 %
+Correctness*: 89.04 %
+Quality: 1.31 %
+Quality*: 45.22 %
+Redundancy: 4.59 %
+Mean distance: 1.78 m
+RMSE: 2.06 m
+------------
+------------
+motorway-link 37
+------------
+Total extraction time: 1.59 seconds
+------------
+Completeness: 73.7 %
+Correctness: 72.81 %
+Correctness*: 88.69 %
+Quality: 57.73 %
+Quality*: 70.33 %
+Redundancy: -0.47 %
+Mean distance: 0.62 m
+RMSE: 0.87 m
+------------
+------------
+motorway-link 38
+------------
+Total extraction time: 1.19 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.39 m
+RMSE: 0.55 m
+------------
+------------
+motorway-link 39
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 94.5 %
+Correctness: 94.5 %
+Correctness*: 94.5 %
+Quality: 89.57 %
+Quality*: 89.57 %
+Redundancy: -0.0 %
+Mean distance: 1.36 m
+RMSE: 1.73 m
+------------
+------------
+motorway-link 44
+------------
+Total extraction time: 0.69 seconds
+------------
+Completeness: 73.82 %
+Correctness: 73.46 %
+Correctness*: 73.46 %
+Quality: 58.07 %
+Quality*: 58.07 %
+Redundancy: -1.75 %
+Mean distance: 1.39 m
+RMSE: 1.65 m
+------------
+------------
+motorway-link 55
+------------
+Total extraction time: 1.14 seconds
+------------
+Completeness: 12.39 %
+Correctness: 11.83 %
+Correctness*: 88.43 %
+Quality: 6.51 %
+Quality*: 48.63 %
+Redundancy: 2.22 %
+Mean distance: 1.76 m
+RMSE: 2.05 m
+------------
+------------
+motorway-link 58
+------------
+Total extraction time: 0.38 seconds
+------------
+Completeness: 1.84 %
+Correctness: 6.4 %
+Correctness*: 9.81 %
+Quality: 1.34 %
+Quality*: 2.05 %
+Redundancy: -10.63 %
+Mean distance: 1.37 m
+RMSE: 1.69 m
+------------
+------------
+Segments tested: 20
+Completeness: 61.45 %
+Correctness: 66.45 %
+Correctness*: 84.06 %
+Quality: 46.89 %
+Quality*: 59.31 %
+Redundancy: -0.07 %
+Mean distance: 0.86 m
+RMSE: 1.19 m
+------------
+Total: 76.74 seconds
+------------
+------------
+motorway-link 60
+------------
+Total extraction time: 0.52 seconds
+------------
+Completeness: 2.93 %
+Correctness: 4.44 %
+Correctness*: 91.37 %
+Quality: 1.8 %
+Quality*: 36.95 %
+Redundancy: 0.0 %
+Mean distance: 1.59 m
+RMSE: 1.96 m
+------------
+------------
+motorway-link 66
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.55 m
+RMSE: 0.92 m
+------------
+------------
+motorway-link 70
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 68.48 %
+Correctness: 68.48 %
+Correctness*: 68.48 %
+Quality: 52.07 %
+Quality*: 52.07 %
+Redundancy: -0.0 %
+Mean distance: 1.58 m
+RMSE: 1.81 m
+------------
+------------
+motorway-link 74
+------------
+Total extraction time: 0.83 seconds
+------------
+Completeness: 89.02 %
+Correctness: 87.86 %
+Correctness*: 100.0 %
+Quality: 79.19 %
+Quality*: 90.14 %
+Redundancy: -1.05 %
+Mean distance: 1.11 m
+RMSE: 1.3 m
+------------
+------------
+motorway-link 82
+------------
+Total extraction time: 2.84 seconds
+------------
+Completeness: 7.45 %
+Correctness: 6.3 %
+Correctness*: 54.0 %
+Quality: 3.53 %
+Quality*: 30.3 %
+Redundancy: -0.0 %
+Mean distance: 1.65 m
+RMSE: 1.81 m
+------------
+------------
+motorway-link 98
+------------
+Total extraction time: 1.04 seconds
+------------
+Completeness: 1.91 %
+Correctness: 2.61 %
+Correctness*: 94.72 %
+Quality: 1.1 %
+Quality*: 40.02 %
+Redundancy: -1.76 %
+Mean distance: 1.68 m
+RMSE: 1.99 m
+------------
+------------
+motorway-link 103
+------------
+Total extraction time: 0.59 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.06 m
+RMSE: 1.21 m
+------------
+------------
+Segments tested: 27
+Total distance extracted: 10.75 km
+Total distance reference: 11.5 km
+Buffer width: 4.5 pixels
+------------
+Completeness: 55.77 %
+Correctness: 59.58 %
+Correctness*: 82.78 %
+Quality: 40.45 %
+Quality*: 56.19 %
+Redundancy: -0.11 %
+Mean distance: 0.89 m
+RMSE: 1.21 m
+------------
+Average time per extraction: 0.93 seconds
+Total extraction time: 25.14 seconds
+------------
+* using all roads in the image as reference instead of only the desired road

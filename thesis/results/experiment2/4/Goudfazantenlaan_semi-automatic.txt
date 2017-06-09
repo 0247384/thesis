@@ -1,0 +1,75 @@
+------------
+Goudfazantenlaan
+------------
+Mapping style: semi-automatic
+Real-time: False
+------------
+Total distance extracted: 3.58 km
+Total distance reference: 3.72 km
+------------
+Segment count: 12
+Point count: 52
+Given point count: 33
+Extension count: 26
+Correction count: 9
+Removal count: 0
+Click count: 35
+Extraction count: 25
+Extraction time: 9.02
+Total time spend: 88.22
+------------
+Completeness: 96.71 %
+Correctness: 98.87 %
+Quality: 95.6 %
+Redundancy: -1.67 %
+Mean distance: 0.81 m
+RMSE: 1.1 m
+------------
+Segment 1
+Points: [(1, 89), (90, 222), (122, 264), (205, 350), (250, 407), (328, 519), (382, 617), (469, 751), (514, 806)]
+Given points: [(1, 89), (514, 806)]
+------------
+Segment 2
+Points: [(314, 1), (311, 37), (298, 78), (220, 397), (200, 449), (163, 529), (134, 586)]
+Given points: [(314, 1), (163, 529), (134, 586)]
+------------
+Segment 3
+Points: [(336, 732), (326, 774), (432, 821), (481, 769)]
+Given points: [(336, 732), (326, 774), (481, 769)]
+------------
+Segment 4
+Points: [(317, 793), (326, 774)]
+Given points: [(317, 793), (326, 774)]
+------------
+Segment 5
+Points: [(341, 543), (395, 521), (651, 621)]
+Given points: [(341, 543), (395, 521), (651, 621)]
+------------
+Segment 6
+Points: [(395, 521), (479, 274)]
+Given points: [(395, 521), (479, 274)]
+------------
+Segment 7
+Points: [(269, 196), (330, 223), (410, 253), (662, 332)]
+Given points: [(269, 196), (662, 332)]
+------------
+Segment 8
+Points: [(311, 37), (349, 42), (404, 59), (603, 145), (664, 166)]
+Given points: [(311, 37), (664, 166)]
+------------
+Segment 9
+Points: [(669, 1), (655, 822)]
+Given points: [(669, 1), (655, 822)]
+------------
+Segment 10
+Points: [(752, 4), (742, 107), (713, 184), (705, 216), (699, 246), (692, 276), (684, 293), (664, 303)]
+Given points: [(752, 4), (742, 107), (713, 184), (705, 216), (684, 293), (664, 303)]
+------------
+Segment 11
+Points: [(661, 451), (681, 459), (699, 490), (712, 530), (729, 580), (747, 628)]
+Given points: [(661, 451), (681, 459), (699, 490), (712, 530), (729, 580), (747, 628)]
+------------
+Segment 12
+Points: []
+Given points: []
+------------

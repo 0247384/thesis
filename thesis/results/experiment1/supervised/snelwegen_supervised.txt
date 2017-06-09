@@ -1,0 +1,1164 @@
+------------
+Den Boschsingel 6
+------------
+Total extraction time: 1.17 seconds
+------------
+Completeness: 4.89 %
+Correctness: 4.84 %
+Correctness*: 96.9 %
+Quality: 2.5 %
+Quality*: 50.13 %
+Redundancy: 0.87 %
+Mean distance: 1.77 m
+RMSE: 2.04 m
+------------
+------------
+Den Boschsingel 9
+------------
+Total extraction time: 1.2 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.16 %
+Mean distance: 0.87 m
+RMSE: 1.1 m
+------------
+------------
+Koning Boudewijnlaan 10
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.29 m
+RMSE: 0.47 m
+------------
+------------
+Koning Boudewijnlaan 11
+------------
+Total extraction time: 1.2 seconds
+------------
+Completeness: 81.35 %
+Correctness: 80.19 %
+Correctness*: 92.17 %
+Quality: 67.66 %
+Quality*: 77.78 %
+Redundancy: -0.67 %
+Mean distance: 0.63 m
+RMSE: 0.99 m
+------------
+------------
+Koning Boudewijnlaan 15
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.36 m
+RMSE: 1.59 m
+------------
+------------
+Koning Boudewijnlaan 19
+------------
+Total extraction time: 1.54 seconds
+------------
+Completeness: 99.87 %
+Correctness: 99.87 %
+Correctness*: 99.87 %
+Quality: 99.74 %
+Quality*: 99.74 %
+Redundancy: 0.0 %
+Mean distance: 0.81 m
+RMSE: 1.13 m
+------------
+------------
+Koning Boudewijnlaan 23
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 92.14 %
+Correctness: 92.14 %
+Correctness*: 92.14 %
+Quality: 85.42 %
+Quality*: 85.42 %
+Redundancy: 0.0 %
+Mean distance: 2.09 m
+RMSE: 2.28 m
+------------
+------------
+Koning Boudewijnlaan 24
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.2 m
+RMSE: 1.55 m
+------------
+------------
+Koning Boudewijnlaan 29
+------------
+Total extraction time: 1.63 seconds
+------------
+Completeness: 81.44 %
+Correctness: 81.44 %
+Correctness*: 81.44 %
+Quality: 68.69 %
+Quality*: 68.69 %
+Redundancy: 0.0 %
+Mean distance: 1.39 m
+RMSE: 1.64 m
+------------
+------------
+Koning Boudewijnlaan 36
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.05 m
+RMSE: 0.19 m
+------------
+------------
+E40 1
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 3
+------------
+Total extraction time: 0.41 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 4
+------------
+Total extraction time: 0.51 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 6
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 8
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 11
+------------
+Total extraction time: 0.5 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 13
+------------
+Total extraction time: 1.34 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.99 m
+RMSE: 1.37 m
+------------
+------------
+E40 14
+------------
+Total extraction time: 1.59 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.8 m
+RMSE: 1.07 m
+------------
+------------
+E40 20
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.26 m
+RMSE: 0.44 m
+------------
+------------
+E40 22
+------------
+Total extraction time: 0.38 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.5 m
+RMSE: 0.63 m
+------------
+------------
+Segments tested: 20
+Completeness: 92.52 %
+Correctness: 92.36 %
+Correctness*: 97.62 %
+Quality: 85.94 %
+Quality*: 90.84 %
+Redundancy: -0.04 %
+Mean distance: 0.66 m
+RMSE: 1.1 m
+------------
+Total: 103.6 seconds
+------------
+------------
+E40 27
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 31
+------------
+Total extraction time: 1.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.4 m
+RMSE: 0.59 m
+------------
+------------
+E40 33
+------------
+Total extraction time: 0.64 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.42 m
+RMSE: 0.56 m
+------------
+------------
+E40 35
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.33 m
+RMSE: 0.5 m
+------------
+------------
+E40 37
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 2.05 m
+RMSE: 2.11 m
+------------
+------------
+E40 38
+------------
+Total extraction time: 0.58 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.52 m
+RMSE: 0.65 m
+------------
+------------
+E40 39
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 40
+------------
+Total extraction time: 0.5 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.36 m
+RMSE: 0.52 m
+------------
+------------
+E40 41
+------------
+Total extraction time: 1.19 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.58 m
+RMSE: 0.84 m
+------------
+------------
+E40 45
+------------
+Total extraction time: 0.73 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 46
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E40 47
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 0.02 m
+RMSE: 0.12 m
+------------
+------------
+E40 48
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.73 m
+RMSE: 0.89 m
+------------
+------------
+E40 53
+------------
+Total extraction time: 0.61 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.25 m
+RMSE: 0.44 m
+------------
+------------
+E40 55
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.64 m
+RMSE: 1.84 m
+------------
+------------
+Omleiding 5
+------------
+Total extraction time: 0.75 seconds
+------------
+Completeness: 20.28 %
+Correctness: 20.52 %
+Correctness*: 91.47 %
+Quality: 11.46 %
+Quality*: 51.07 %
+Redundancy: 1.92 %
+Mean distance: 1.66 m
+RMSE: 1.96 m
+------------
+------------
+Omleiding 6
+------------
+Total extraction time: 1.17 seconds
+------------
+Completeness: 75.29 %
+Correctness: 75.29 %
+Correctness*: 75.29 %
+Quality: 60.38 %
+Quality*: 60.38 %
+Redundancy: 0.0 %
+Mean distance: 1.13 m
+RMSE: 1.44 m
+------------
+------------
+Exit A2-E314 Genk-Hasselt-Leuven 1
+------------
+Total extraction time: 0.89 seconds
+------------
+Completeness: 13.15 %
+Correctness: 13.15 %
+Correctness*: 13.15 %
+Quality: 7.04 %
+Quality*: 7.04 %
+Redundancy: -0.0 %
+Mean distance: 1.72 m
+RMSE: 2.0 m
+------------
+------------
+Voerviaduct 5
+------------
+Total extraction time: 0.53 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.24 m
+RMSE: 0.43 m
+------------
+------------
+E314 3
+------------
+Total extraction time: 0.67 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.0 %
+Mean distance: 1.62 m
+RMSE: 1.87 m
+------------
+------------
+Segments tested: 40
+Completeness: 92.41 %
+Correctness: 92.32 %
+Correctness*: 96.11 %
+Quality: 85.81 %
+Quality*: 89.33 %
+Redundancy: -0.02 %
+Mean distance: 0.59 m
+RMSE: 1.01 m
+------------
+Total: 200.1 seconds
+------------
+------------
+E314 4
+------------
+Total extraction time: 0.48 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.13 m
+RMSE: 0.31 m
+------------
+------------
+E314 11
+------------
+Total extraction time: 0.89 seconds
+------------
+Completeness: 3.96 %
+Correctness: 3.81 %
+Correctness*: 95.77 %
+Quality: 1.96 %
+Quality*: 49.4 %
+Redundancy: -1.59 %
+Mean distance: 1.66 m
+RMSE: 2.0 m
+------------
+------------
+E314 13
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.32 m
+RMSE: 1.43 m
+------------
+------------
+E314 18
+------------
+Total extraction time: 1.52 seconds
+------------
+Completeness: 60.1 %
+Correctness: 59.58 %
+Correctness*: 94.95 %
+Quality: 42.72 %
+Quality*: 68.08 %
+Redundancy: 0.23 %
+Mean distance: 1.19 m
+RMSE: 1.43 m
+------------
+------------
+E314 22
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 69.99 %
+Correctness: 69.99 %
+Correctness*: 69.99 %
+Quality: 53.83 %
+Quality*: 53.83 %
+Redundancy: -0.0 %
+Mean distance: 1.48 m
+RMSE: 1.83 m
+------------
+------------
+E314 23
+------------
+Total extraction time: 1.19 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.41 %
+Mean distance: 1.76 m
+RMSE: 1.94 m
+------------
+------------
+E314 24
+------------
+Total extraction time: 1.09 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.14 %
+Mean distance: 1.11 m
+RMSE: 1.28 m
+------------
+------------
+E314 25
+------------
+Total extraction time: 1.22 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.67 m
+RMSE: 0.78 m
+------------
+------------
+E314 28
+------------
+Total extraction time: 0.45 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E314 36
+------------
+Total extraction time: 1.35 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.19 %
+Mean distance: 0.67 m
+RMSE: 0.9 m
+------------
+------------
+E314 38
+------------
+Total extraction time: 0.47 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.61 m
+RMSE: 0.73 m
+------------
+------------
+E314 40
+------------
+Total extraction time: 0.42 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E314 41
+------------
+Total extraction time: 1.39 seconds
+------------
+Completeness: 10.55 %
+Correctness: 10.41 %
+Correctness*: 92.71 %
+Quality: 5.54 %
+Quality*: 49.3 %
+Redundancy: 0.26 %
+Mean distance: 1.12 m
+RMSE: 1.44 m
+------------
+------------
+E314 44
+------------
+Total extraction time: 0.92 seconds
+------------
+Completeness: 3.36 %
+Correctness: 2.98 %
+Correctness*: 96.44 %
+Quality: 1.52 %
+Quality*: 49.31 %
+Redundancy: -11.64 %
+Mean distance: 1.58 m
+RMSE: 1.87 m
+------------
+------------
+E314 50
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.46 m
+RMSE: 0.61 m
+------------
+------------
+E314 51
+------------
+Total extraction time: 1.41 seconds
+------------
+Completeness: 91.52 %
+Correctness: 91.52 %
+Correctness*: 94.13 %
+Quality: 84.37 %
+Quality*: 86.77 %
+Redundancy: 0.0 %
+Mean distance: 0.97 m
+RMSE: 1.28 m
+------------
+------------
+E314 52
+------------
+Total extraction time: 1.53 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.4 m
+RMSE: 1.65 m
+------------
+------------
+E314 64
+------------
+Total extraction time: 0.78 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.59 m
+RMSE: 0.72 m
+------------
+------------
+E314 65
+------------
+Total extraction time: 1.27 seconds
+------------
+Completeness: 57.24 %
+Correctness: 57.24 %
+Correctness*: 92.15 %
+Quality: 40.1 %
+Quality*: 64.55 %
+Redundancy: 0.0 %
+Mean distance: 1.7 m
+RMSE: 1.87 m
+------------
+------------
+E314 66
+------------
+Total extraction time: 1.11 seconds
+------------
+Completeness: 73.71 %
+Correctness: 73.71 %
+Correctness*: 73.71 %
+Quality: 58.37 %
+Quality*: 58.37 %
+Redundancy: 0.0 %
+Mean distance: 1.33 m
+RMSE: 1.67 m
+------------
+------------
+Segments tested: 60
+Completeness: 87.21 %
+Correctness: 87.05 %
+Correctness*: 95.88 %
+Quality: 77.19 %
+Quality*: 85.02 %
+Redundancy: -0.01 %
+Mean distance: 0.7 m
+RMSE: 1.1 m
+------------
+Total: 304.67 seconds
+------------
+------------
+E314 68
+------------
+Total extraction time: 0.41 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.0 m
+RMSE: 0.0 m
+------------
+------------
+E314 72
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 7.95 %
+Correctness: 7.95 %
+Correctness*: 86.97 %
+Quality: 4.16 %
+Quality*: 45.53 %
+Redundancy: 1.02 %
+Mean distance: 1.38 m
+RMSE: 1.77 m
+------------
+------------
+E314 73
+------------
+Total extraction time: 1.56 seconds
+------------
+Completeness: 79.44 %
+Correctness: 79.49 %
+Correctness*: 79.49 %
+Quality: 65.96 %
+Quality*: 65.96 %
+Redundancy: 0.29 %
+Mean distance: 1.85 m
+RMSE: 1.98 m
+------------
+------------
+E314 75
+------------
+Total extraction time: 0.7 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.7 m
+RMSE: 0.84 m
+------------
+------------
+E314 76
+------------
+Total extraction time: 1.58 seconds
+------------
+Completeness: 44.63 %
+Correctness: 44.33 %
+Correctness*: 94.85 %
+Quality: 28.56 %
+Quality*: 61.11 %
+Redundancy: -0.39 %
+Mean distance: 1.04 m
+RMSE: 1.33 m
+------------
+------------
+Lüdenscheidsingel 2
+------------
+Total extraction time: 0.91 seconds
+------------
+Completeness: 74.24 %
+Correctness: 74.24 %
+Correctness*: 81.57 %
+Quality: 59.03 %
+Quality*: 64.86 %
+Redundancy: -0.0 %
+Mean distance: 2.49 m
+RMSE: 2.65 m
+------------
+------------
+Lüdenscheidsingel 7
+------------
+Total extraction time: 1.05 seconds
+------------
+Completeness: 22.15 %
+Correctness: 22.15 %
+Correctness*: 73.64 %
+Quality: 12.45 %
+Quality*: 41.4 %
+Redundancy: 0.0 %
+Mean distance: 1.77 m
+RMSE: 2.04 m
+------------
+------------
+Nieuwe Mechelsesteenweg 9
+------------
+Total extraction time: 0.66 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.51 m
+RMSE: 1.62 m
+------------
+------------
+Naamsesteenweg 42
+------------
+Total extraction time: 0.86 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: -0.18 %
+Mean distance: 0.88 m
+RMSE: 1.16 m
+------------
+------------
+Meerdaalboslaan 2
+------------
+Total extraction time: 1.67 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.08 m
+RMSE: 1.26 m
+------------
+------------
+Meerdaalboslaan 12
+------------
+Total extraction time: 1.3 seconds
+------------
+Completeness: 45.87 %
+Correctness: 45.38 %
+Correctness*: 93.81 %
+Quality: 29.53 %
+Quality*: 61.05 %
+Redundancy: -0.22 %
+Mean distance: 0.83 m
+RMSE: 1.03 m
+------------
+------------
+Meerdaalboslaan 14
+------------
+Total extraction time: 0.97 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.68 m
+RMSE: 0.86 m
+------------
+------------
+Meerdaalboslaan 26
+------------
+Total extraction time: 1.27 seconds
+------------
+Completeness: 37.05 %
+Correctness: 37.0 %
+Correctness*: 94.99 %
+Quality: 22.74 %
+Quality*: 58.38 %
+Redundancy: 0.26 %
+Mean distance: 0.72 m
+RMSE: 0.97 m
+------------
+------------
+Meerdaalboslaan 27
+------------
+Total extraction time: 0.72 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.35 m
+RMSE: 0.54 m
+------------
+------------
+Meerdaalboslaan 46
+------------
+Total extraction time: 0.72 seconds
+------------
+Completeness: 59.42 %
+Correctness: 59.07 %
+Correctness*: 86.86 %
+Quality: 42.12 %
+Quality*: 61.93 %
+Redundancy: 0.21 %
+Mean distance: 1.21 m
+RMSE: 1.35 m
+------------
+------------
+Meerdaalboslaan 48
+------------
+Total extraction time: 0.77 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 0.6 m
+RMSE: 0.73 m
+------------
+------------
+Meerdaalboslaan 49
+------------
+Total extraction time: 0.44 seconds
+------------
+Completeness: 100.0 %
+Correctness: 100.0 %
+Correctness*: 100.0 %
+Quality: 100.0 %
+Quality*: 100.0 %
+Redundancy: 0.0 %
+Mean distance: 1.14 m
+RMSE: 1.38 m
+------------
+------------
+Rennes-Singel 3
+------------
+Total extraction time: 0.8 seconds
+------------
+Completeness: 16.96 %
+Correctness: 16.56 %
+Correctness*: 94.57 %
+Quality: 9.09 %
+Quality*: 51.91 %
+Redundancy: -1.36 %
+Mean distance: 1.27 m
+RMSE: 1.6 m
+------------
+------------
+Sint-Jansbergsesteenweg 8
+------------
+Total extraction time: 1.3 seconds
+------------
+Completeness: 18.16 %
+Correctness: 17.83 %
+Correctness*: 88.69 %
+Quality: 9.83 %
+Quality*: 48.88 %
+Redundancy: -1.33 %
+Mean distance: 0.86 m
+RMSE: 1.26 m
+------------
+------------
+Segments tested: 79
+Total distance extracted: 39.62 km
+Total distance reference: 39.54 km
+Buffer width: 4.5 pixels
+------------
+Completeness: 81.97 %
+Correctness: 81.8 %
+Correctness*: 95.03 %
+Quality: 69.33 %
+Quality*: 80.54 %
+Redundancy: -0.02 %
+Mean distance: 0.76 m
+RMSE: 1.15 m
+------------
+Average time per extraction: 0.87 seconds
+Total extraction time: 68.91 seconds
+------------
+* using all roads in the image as reference instead of only the desired road

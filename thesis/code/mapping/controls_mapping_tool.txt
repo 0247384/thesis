@@ -1,0 +1,36 @@
+Mouse
+-----
+left-click		if extending state: extend road
+
+				if correcting state:
+					if click on point or line:
+						hold button and correct point/line
+						by drag & release
+					else:
+						detect road via given point
+
+right-click		remove point from all roads
+
+ctrl +			change active road to road
+left-click		that contains point or line 
+
+
+Keyboard
+--------
+space			create new road and set extending state
+c				toggle between correcting and extending state
+u				undo last edit of active road
+				(history is cleared when a new road is created)
+del             remove all points from current road
+h				show/hide reference roads
+r               turn on/off real-time proposals
+                (if not fixed)
+m				toggle between semi-automatic and manual mapping
+				(if not fixed)
+i				print statistics
+up				move up
+down			move down
+left			move left
+right			move right
+0				reset zoom and image position
+enter	 		finish mapping, close image & open next

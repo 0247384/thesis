@@ -1,0 +1,83 @@
+------------
+Parkstraat
+------------
+Mapping style: semi-automatic
+Real-time: True
+------------
+Total distance extracted: 2.97 km
+Total distance reference: 2.97 km
+------------
+Segment count: 14
+Point count: 56
+Given point count: 39
+Extension count: 39
+Correction count: 0
+Removal count: 0
+Click count: 39
+Extraction count: 227
+Extraction time: 49.54
+Total time spend: 239.23
+------------
+Completeness: 97.57 %
+Correctness: 97.94 %
+Quality: 95.62 %
+Redundancy: 0.58 %
+Mean distance: 1.46 m
+RMSE: 1.72 m
+------------
+Segment 1
+Points: [(129, 3), (97, 189), (97, 355), (76, 427), (56, 621)]
+Given points: [(129, 3), (97, 189), (97, 355), (76, 427), (56, 621)]
+------------
+Segment 2
+Points: [(105, 147), (131, 160), (186, 199), (284, 284), (472, 472), (606, 621)]
+Given points: [(105, 147), (606, 621)]
+------------
+Segment 3
+Points: [(523, 1), (537, 29), (599, 190), (614, 239), (620, 271), (555, 346), (461, 459)]
+Given points: [(523, 1), (620, 271), (555, 346), (461, 459)]
+------------
+Segment 4
+Points: [(163, 181), (306, 95), (327, 89), (350, 76), (461, 9)]
+Given points: [(163, 181), (306, 95), (350, 76), (461, 9)]
+------------
+Segment 5
+Points: [(339, 81), (393, 181), (444, 154), (568, 114)]
+Given points: [(339, 81), (393, 181), (444, 154), (568, 114)]
+------------
+Segment 6
+Points: [(232, 238), (326, 183), (380, 158)]
+Given points: [(232, 238), (326, 183), (380, 158)]
+------------
+Segment 7
+Points: [(92, 363), (2, 361)]
+Given points: [(92, 363), (2, 361)]
+------------
+Segment 8
+Points: [(61, 567), (114, 564), (163, 557), (222, 544), (268, 530), (311, 515), (404, 494), (434, 483), (464, 465)]
+Given points: [(61, 567), (268, 530), (464, 465)]
+------------
+Segment 9
+Points: [(383, 382), (333, 440), (346, 511), (361, 560), (380, 592), (409, 620)]
+Given points: [(383, 382), (333, 440), (409, 620)]
+------------
+Segment 10
+Points: [(371, 576), (344, 619)]
+Given points: [(371, 576), (344, 619)]
+------------
+Segment 11
+Points: [(247, 537), (284, 622)]
+Given points: [(247, 537), (284, 622)]
+------------
+Segment 12
+Points: [(143, 560), (159, 620)]
+Given points: [(143, 560), (159, 620)]
+------------
+Segment 13
+Points: [(536, 541), (568, 513), (621, 492)]
+Given points: [(536, 541), (568, 513), (621, 492)]
+------------
+Segment 14
+Points: []
+Given points: []
+------------

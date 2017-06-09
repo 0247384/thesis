@@ -1,0 +1,55 @@
+------------
+E314
+------------
+Mapping style: semi-automatic
+Real-time: False
+------------
+Total distance extracted: 3.3 km
+Total distance reference: 3.29 km
+------------
+Segment count: 7
+Point count: 29
+Given point count: 12
+Extension count: 12
+Correction count: 0
+Removal count: 0
+Click count: 12
+Extraction count: 6
+Extraction time: 6.14
+Total time spend: 42.21
+------------
+Completeness: 99.99 %
+Correctness: 99.71 %
+Quality: 99.7 %
+Redundancy: 0.01 %
+Mean distance: 0.98 m
+RMSE: 1.15 m
+------------
+Segment 1
+Points: [(714, 2), (652, 69), (599, 143), (529, 265), (478, 374), (454, 443), (431, 527), (355, 863), (324, 967), (301, 1017)]
+Given points: [(714, 2), (301, 1017)]
+------------
+Segment 2
+Points: [(684, 5), (613, 90), (561, 165), (523, 231), (473, 339), (442, 425), (416, 512), (355, 779), (327, 887), (292, 991), (276, 1018)]
+Given points: [(684, 5), (276, 1018)]
+------------
+Segment 3
+Points: [(5, 848), (1017, 516)]
+Given points: [(5, 848), (1017, 516)]
+------------
+Segment 4
+Points: [(1, 603), (79, 821)]
+Given points: [(1, 603), (79, 821)]
+------------
+Segment 5
+Points: [(795, 681), (1021, 595)]
+Given points: [(795, 681), (1021, 595)]
+------------
+Segment 6
+Points: [(438, 706), (342, 1021)]
+Given points: [(438, 706), (342, 1021)]
+------------
+Segment 7
+Points: []
+Given points: []
+------------
